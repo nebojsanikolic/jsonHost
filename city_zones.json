@@ -4390,6 +4390,87 @@
                ]
             }
          ]
+      },{
+         "city_name":"Aranđelovac",
+         "city_short_name":"AR",
+         "city_id":9,
+         "daily_tickets":[
+            {
+               "parking_zone_id":"51",
+               "sms_number":"9343",
+               "name":"Dnevna karta Zona II",
+               "color":"#FFFFFF",
+               "desc":"Bez ograničenja, dnevna karta za zonu II",
+               "interval":1440,
+               "price":250
+            },{
+               "parking_zone_id":"53",
+               "sms_number":"9345",
+               "name":"Dnevna karta Zona III",
+               "color":"#FFFFFF",
+               "desc":"Bez ograničenja, dnevna karta za zonu III",
+               "interval":1440,
+               "price":250
+            }
+         ],
+         "Zones":[
+            {
+               "id":49,
+               "price":50,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#DF2E38",
+               "name":"Zona I",
+               "description":"Prvi sat 50 din NVRDDrugi sat 60 din NVRDtreći sat 78 din",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":true,
+               "restriction_time":180,
+               "sms_number":"9341",
+               "coordinates":[
+                  
+               ]
+            },
+            {
+               "id":50,
+               "price":36,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#F1C93B",
+               "name":"Zona II",
+               "description":"- - - -",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"9342",
+               "coordinates":[
+                  
+               ]
+            },{
+               "id":52,
+               "price":55,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#557C55",
+               "name":"Zona III",
+               "description":"- - - -",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"9342",
+               "coordinates":[
+                  
+               ]
+            }
+         ]
       }
    ]
 }
