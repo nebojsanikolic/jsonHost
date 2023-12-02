@@ -4517,6 +4517,98 @@
           "coordinates": []
         }
       ]
+    },{
+      "city_name": "Beograd",
+      "city_short_name": "BF",
+      "city_id": 11,
+      "daily_tickets": [
+        
+      ],
+      "Zones": [
+        {
+          "id": 1101,
+          "price": 100,
+          "value": 30,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#8E24AA",
+          "name": "Zona A",
+          "description": "Prvi sat 50 din NVRD Drugi sat 60 din NVRD Treći sat 78 din",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": true,
+          "restriction_time": 30,
+          "sms_number": "9114",
+          "coordinates": []
+        },
+        {
+          "id": 1002,
+          "price": 60,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FF0302",
+          "name": "Prva zona (crvena)",
+          "description": "Mogućnost produženog parkiranja od 30 minuta (100 dinara)",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": true,
+          "restriction_time": 90,
+          "sms_number": "9111",
+          "coordinates": []
+        },
+        {
+          "id": 1003,
+          "price": 53,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#0D1282",
+          "name": "Druga zona (žuta)",
+          "description": "Mogućnost produženog parkiranja od 60 minuta (180 dinara)",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": true,
+          "restriction_time": 120,
+          "sms_number": "9112",
+          "coordinates": []
+        },{
+          "id": 1003,
+          "price": 45,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "Treća zona (zelena)",
+          "name": "Treća zona (zelena)",
+          "description": "Mogućnost produženog parkiranja od 60 minuta (140 dinara)",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": true,
+          "restriction_time": 120,
+          "sms_number": "9113",
+          "coordinates": []
+        },{
+          "id": 1004,
+          "price": 31,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "273485",
+          "name": "Opšta zona (plava)",
+          "description": "Mogućnost produženog parkiranja od 60 minuta (140 dinara)",
+          "parking_start": 8,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": true,
+          "restriction_time": 120,
+          "sms_number": "9119",
+          "coordinates": []
+        }
+      ]
     }
   ]
 }
