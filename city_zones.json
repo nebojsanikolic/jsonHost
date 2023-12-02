@@ -3258,7 +3258,7 @@
                "value":60,
                "per_hour":true,
                "currency":"RSD",
-               "color":"#FFF000",
+               "color":"#FFC436",
                "name":"Zona 1",
                "description":"Širi centar grada",
                "parking_start":7,
