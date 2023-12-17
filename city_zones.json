@@ -11,6 +11,7 @@
           "name": "Dnevna Karta",
           "color": "#FFFFFF",
           "desc": "Važi za zelenu i žutu zonu",
+          "forZones": [2, 3],
           "interval": 1440,
           "price": 190
         }
@@ -761,6 +762,7 @@
           "name": "Dnevna Karta",
           "color": "#007AFF",
           "desc": "Dnevna karta za plavu zonu",
+          "forZones": [6],
           "interval": 1440,
           "price": 112
         }
@@ -1641,13 +1643,14 @@
           "name": "Dnevna Karta",
           "color": "#FFFFFF",
           "desc": "Dnevna karta, važi za Zonu I i Zonu II",
+          "forZones": [8,9],
           "interval": 1440,
           "price": 158
         }
       ],
       "Zones": [
         {
-          "id": 5,
+          "id": 7,
           "price": 49,
           "value": 60,
           "per_hour": true,
@@ -1765,7 +1768,7 @@
           ]
         },
         {
-          "id": 6,
+          "id": 8,
           "price": 35,
           "value": 60,
           "per_hour": true,
@@ -1911,7 +1914,7 @@
           ]
         },
         {
-          "id": 7,
+          "id": 9,
           "price": 20,
           "value": 60,
           "per_hour": true,
@@ -2007,6 +2010,7 @@
           "name": "Dnevna Karta",
           "color": "#FFFFFF",
           "desc": "Važi za zelenu II i III zonu",
+          "forZones": [11],
           "interval": 1440,
           "price": 190
         }
@@ -2056,9 +2060,10 @@
         {
           "parking_zone_id": "13",
           "sms_number": "9184",
-          "name": "Dnevna karta - Ekstra zona",
+          "name": "Dnevna karta - Crvena zona",
           "color": "#FFFFFF",
           "desc": "Važi do isteka naplate u danu kada je uplaćena",
+          "forZones": [52],
           "interval": 1440,
           "price": 600
         },
@@ -2068,6 +2073,7 @@
           "name": "Dnevna karta - Zelena zona",
           "color": "#FFFFFF",
           "desc": "Važi do isteka naplate u danu kada je uplaćena",
+          "forZones": [53],
           "interval": 1440,
           "price": 450
         }
@@ -2137,6 +2143,7 @@
           "name": "Dnevna karta - Zona I",
           "color": "#FFFFFF",
           "desc": "Bez ograničenja, važi 24h, naplata od 7h do 21h, subotom od 7h do 14h",
+          "forZones": [62],
           "interval": 1440,
           "price": 135
         }
@@ -5352,18 +5359,19 @@
       "city_id": 7,
       "daily_tickets": [
         {
-          "parking_zone_id": "35",
-          "sms_number": "8343",
+          "parking_zone_id": "75",
+          "sms_number": "8313",
           "name": "Dnevna karta - Zona I",
           "color": "#FFFFFF",
           "desc": "Bez ograničenja, važi 24h, naplata od 7h do 21h, subotom od 7h do 14h",
+          "forZones": [72],
           "interval": 1440,
-          "price": 135
+          "price": 150
         }
       ],
       "Zones": [
         {
-          "id": 1,
+          "id": 71,
           "price": 50,
           "value": 60,
           "per_hour": true,
@@ -5380,7 +5388,7 @@
           "coordinates": []
         },
         {
-          "id": 2,
+          "id": 72,
           "price": 40,
           "value": 60,
           "per_hour": true,
@@ -5409,13 +5417,14 @@
           "name": "Dnevna karta",
           "color": "#FFFFFF",
           "desc": "Dnevna karta, važi za obe zone",
+          "forZones": [81,82],
           "interval": 1440,
           "price": 135
         }
       ],
       "Zones": [
         {
-          "id": 190,
+          "id": 81,
           "price": 30,
           "value": 60,
           "per_hour": true,
@@ -5432,7 +5441,7 @@
           "coordinates": []
         },
         {
-          "id": 191,
+          "id": 82,
           "price": 40,
           "value": 60,
           "per_hour": true,
@@ -5461,6 +5470,7 @@
           "name": "Dnevna karta Zona II",
           "color": "#FFFFFF",
           "desc": "Bez ograničenja, dnevna karta za zonu II",
+          "forZones": [92],
           "interval": 1440,
           "price": 250
         },
@@ -5470,13 +5480,14 @@
           "name": "Dnevna karta Zona III",
           "color": "#FFFFFF",
           "desc": "Bez ograničenja, dnevna karta za zonu III",
+          "forZones": [93],
           "interval": 1440,
           "price": 250
         }
       ],
       "Zones": [
         {
-          "id": 49,
+          "id": 91,
           "price": 50,
           "value": 60,
           "per_hour": true,
@@ -5493,7 +5504,7 @@
           "coordinates": []
         },
         {
-          "id": 50,
+          "id": 92,
           "price": 36,
           "value": 60,
           "per_hour": true,
@@ -5510,7 +5521,7 @@
           "coordinates": []
         },
         {
-          "id": 52,
+          "id": 93,
           "price": 55,
           "value": 60,
           "per_hour": true,
@@ -5539,13 +5550,14 @@
           "name": "Dnevna karta - Zona II",
           "color": "#FFFFFF",
           "desc": "Bez ograničenja, dnevna karta za zonu II",
+          "forZones": [103],
           "interval": 1440,
           "price": 85
         }
       ],
       "Zones": [
         {
-          "id": 237,
+          "id": 101,
           "price": 50,
           "value": 60,
           "per_hour": true,
@@ -5562,7 +5574,7 @@
           "coordinates": []
         },
         {
-          "id": 46,
+          "id": 102,
           "price": 36,
           "value": 60,
           "per_hour": true,
@@ -5579,7 +5591,7 @@
           "coordinates": []
         },
         {
-          "id": 47,
+          "id": 103,
           "price": 22,
           "value": 60,
           "per_hour": true,
