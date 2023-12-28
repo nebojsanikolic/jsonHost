@@ -6483,7 +6483,7 @@
          ],
          "Zones":[
             {
-               "id":1101,
+               "id":111,
                "price":100,
                "value":30,
                "per_hour":true,
@@ -6502,7 +6502,7 @@
                ]
             },
             {
-               "id":1002,
+               "id":112,
                "price":60,
                "value":60,
                "per_hour":true,
@@ -6521,7 +6521,7 @@
                ]
             },
             {
-               "id":1003,
+               "id":113,
                "price":53,
                "value":60,
                "per_hour":true,
@@ -6540,7 +6540,7 @@
                ]
             },
             {
-               "id":1003,
+               "id":113,
                "price":45,
                "value":60,
                "per_hour":true,
@@ -6559,7 +6559,7 @@
                ]
             },
             {
-               "id":1004,
+               "id":114,
                "price":31,
                "value":60,
                "per_hour":true,
@@ -6573,6 +6573,145 @@
                "restriction":true,
                "restriction_time":120,
                "sms_number":"9119",
+               "coordinates":[
+                  
+               ]
+            }
+         ]
+      },{
+         "city_name":"Novi Sad",
+         "city_short_name":"NS",
+         "city_id":12,
+         "daily_tickets":[
+            {
+               "parking_zone_id":"1201",
+               "sms_number":"8215",
+               "name":"Dnevna karta - bela plus pojedini delovi plave",
+               "color":"#FFFFFF",
+               "desc":"Bez ograničenja, dnevna karta vazi u beloj zoni kao i na pojedinim parkiralištima u plavoj zoni koja su vidno obeležena dopunskim tablama na kojima je naznačeno da se parkiranje može platiti i dnevnom kartom.",
+               "forZones":[
+                  122,124
+               ],
+               "interval":1440,
+               "price":95
+            },
+            {
+               "parking_zone_id":"1202",
+               "sms_number":"8214",
+               "name":"Dnevna karta - Najlon pijaca",
+               "color":"#FFFFFF",
+               "desc":"Parkirališta u okolini „Najlon” pijace (za vreme rada pijace, petkom, subotom i nedeljom, od 6 do 14 sati)",
+               "forZones":[
+               ],
+               "interval":1440,
+               "price":80
+            },
+            {
+               "parking_zone_id":"1203",
+               "sms_number":"8288",
+               "name":"Dnevna karta - Okolina Novosadskog sajma",
+               "color":"#FFFFFF",
+               "desc":"Parkirališta u okolini „Najlon” pijace (za vreme rada pijace, petkom, subotom i nedeljom, od 6 do 14 sati)",
+               "forZones":[
+               ],
+               "interval":1440,
+               "price":250
+            },
+            {
+               "parking_zone_id":"1204",
+               "sms_number":"8213",
+               "name":"Dnevna karta - Okolina kupališta „Štrand” ",
+               "color":"#FFFFFF",
+               "desc":"Parkirališta u okolini „Najlon” pijace (za vreme rada pijace, petkom, subotom i nedeljom, od 6 do 14 sati) NVRD Za vreme trajanja letnje sezone.",
+               "forZones":[
+               ],
+               "interval":1440,
+               "price":35
+            },{
+               "parking_zone_id":"1205",
+               "sms_number":"8288",
+               "name":"Parkirališta za potrebe EXIT festivala",
+               "color":"#FFFFFF",
+               "desc":"Kamenički put, kod restorana „Balkan ekspres” (203) Kej skojevaca, kod restorana ”Aqua Doria” (204) Trg vladike Nikolaja, prostor kod Vojne bolnice (205) NVRD Naplaćuje se za vreme održavanja muzičkog festivala EXIT, od 18 do 03 sata.",
+               "forZones":[
+               ],
+               "interval":1440,
+               "price":250
+            }
+         ],
+         "Zones":[
+            {
+               "id":121,
+               "price":60,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#C41E3A",
+               "name":"Crvena zona",
+               "description":"- - -",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":true,
+               "restriction_time":120,
+               "sms_number":"8211",
+               "coordinates":[
+                  
+               ]
+            },
+            {
+               "id":122,
+               "price":30,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#F9F6EE",
+               "name":"Bela zona",
+               "description":"- - -",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"8218",
+               "coordinates":[
+                  
+               ]
+            },
+            {
+               "id":123,
+               "price":80,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#BBA53D",
+               "name":"Ekstra zona",
+               "description":"- - -",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":true,
+               "restriction_time":60,
+               "sms_number":"8210",
+               "coordinates":[
+                  
+               ]
+            },
+            {
+               "id":124,
+               "price":50,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#1F4797",
+               "name":"Plava zona",
+               "description":"- - -",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"8212",
                "coordinates":[
                   
                ]
