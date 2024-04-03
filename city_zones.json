@@ -1,5 +1,5 @@
 {
-   "version" : 1.3,
+   "version" : 1.4,
    "cities":[
       {
          "city_name":"Čačak",
@@ -6823,6 +6823,66 @@
                "restriction":false,
                "restriction_time":0,
                "sms_number":"9244",
+               "coordinates":[
+                  
+               ]
+            }
+         ]
+      },
+     {
+         "city_name":"Šabac",
+         "city_short_name":"ŠA",
+         "city_id":14,
+         "daily_tickets":[
+            {
+               "parking_zone_id":"1401",
+               "sms_number":"9150",
+               "name":"Dnevna karta - Žuta zona",
+               "color":"#FFFFFF",
+               "desc":"Neograničeno vreme parkiranja za obe zone",
+               "forZones":[
+                  141,
+                 142
+               ],
+               "interval":1440,
+               "price":156
+            }
+         ],
+         "Zones":[
+            {
+               "id":141,
+               "price":42,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#C41E3A",
+               "name":"Crvena zona",
+               "description":"",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"9151",
+               "coordinates":[
+                  
+               ]
+            },
+            {
+               "id":132,
+               "price":36,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#0047AB",
+               "name":"Plava zona",
+               "description":"-",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"9152",
                "coordinates":[
                   
                ]
