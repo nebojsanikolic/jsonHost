@@ -1,5 +1,5 @@
 {
-   "version" : 1.4,
+   "version" : 1.5,
    "cities":[
       {
          "city_name":"Čačak",
@@ -6869,7 +6869,7 @@
                ]
             },
             {
-               "id":132,
+               "id":142,
                "price":36,
                "value":60,
                "per_hour":true,
@@ -6883,6 +6883,153 @@
                "restriction":false,
                "restriction_time":0,
                "sms_number":"9152",
+               "coordinates":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "city_name":"Loznica",
+         "city_short_name":"LO",
+         "city_id":15,
+         "daily_tickets":[
+            {
+               "parking_zone_id":"1501",
+               "sms_number":"9050",
+               "name":"Dnevna karta - Sve zone",
+               "color":"#FFFFFF",
+               "desc":"Neograničeno vreme parkiranja za obe zone",
+               "forZones":[
+                  151,
+                 152
+               ],
+               "interval":1440,
+               "price":144
+            }
+         ],
+         "Zones":[
+            {
+               "id":151,
+               "price":46,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#C41E3A",
+               "name":"Prva zona",
+               "description":"",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"9051",
+               "coordinates":[
+                  
+               ]
+            },
+            {
+               "id":152,
+               "price":30,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#0047AB",
+               "name":"Druga zona",
+               "description":"-",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"9052",
+               "coordinates":[
+                  
+               ]
+            }
+         ]
+      },{
+         "city_name":"Vranje",
+         "city_short_name":"VR",
+         "city_id":16,
+         "daily_tickets":[
+            {
+               "parking_zone_id":"1601",
+               "sms_number":"9170",
+               "name":"Dnevna karta - Prva zona",
+               "color":"#FFFFFF",
+               "desc":"Važi do kraja naplate u danu kada je plaćena",
+               "forZones":[
+                  162
+               ],
+               "interval":1440,
+               "price":250
+            },{
+               "parking_zone_id":"1602",
+               "sms_number":"9173",
+               "name":"Dnevna karta - Žuta zona",
+               "color":"#FFFFFF",
+               "desc":"Važi do kraja naplate u danu kada je plaćena",
+               "forZones":[
+                  163
+               ],
+               "interval":1440,
+               "price":150
+            }
+         ],
+         "Zones":[
+            {
+               "id":161,
+               "price":40,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#994B7F",
+               "name":"Ekstra zona",
+               "description":"Parkiranje u Ekstra zoni je ograničeno na 120 minuta u kontinuitetu, nakon čega je korisnik obavezan da napusti zonu na najmanje 30 minuta. Cena započetog sata je nepromenjena i iznosi 40,00 dinara, odnosno 50,00 dinara u drugom satu.",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":true,
+               "restriction_time":120,
+               "sms_number":"9174",
+               "coordinates":[
+                  
+               ]
+            },
+            {
+               "id":162,
+               "price":40,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#EB3337",
+               "name":"Zona I - Crvena",
+               "description":"Cena parkiranja u prvom satu je 40 dinara, odnosno 50 dinara u drugom.",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"9171",
+               "coordinates":[
+                  
+               ]
+            },{
+               "id":163,
+               "price":35,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#FFF012",
+               "name":"Zona II - Žuta",
+               "description":"Vremensko ograničenje parkiranja u drugoj (žutoj) zoni ne postoji.",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"9172",
                "coordinates":[
                   
                ]
