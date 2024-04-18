@@ -1,5 +1,5 @@
 {
-   "version" : 1.6,
+   "version" : 1.7,
    "cities":[
       {
          "city_name":"Čačak",
@@ -7030,6 +7030,89 @@
                "restriction":false,
                "restriction_time":0,
                "sms_number":"9172",
+               "coordinates":[
+                  
+               ]
+            }
+         ]
+      },{
+         "city_name":"Sombor",
+         "city_short_name":"SO",
+         "city_id":17,
+         "daily_tickets":[
+
+         ],
+         "Zones":[
+            {
+               "id":171,
+               "price":58,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#4663D5",
+               "name":"Ekstra zona",
+               "description":"",
+               "parking_start":7,
+               "parking_end":20,
+               "parking_end_weekend":13,
+               "restriction":true,
+               "restriction_time":120,
+               "sms_number":"9250",
+               "coordinates":[
+                  
+               ]
+            },
+            {
+               "id":172,
+               "price":49,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#FE0000",
+               "name":"Zona I",
+               "description":"",
+               "parking_start":7,
+               "parking_end":20,
+               "parking_end_weekend":13,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"9251",
+               "coordinates":[
+                  
+               ]
+            },{
+               "id":173,
+               "price":34,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#F3CB16",
+               "name":"Zona II",
+               "description":"",
+               "parking_start":7,
+               "parking_end":20,
+               "parking_end_weekend":13,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"9252",
+               "coordinates":[
+                  
+               ]
+            },{
+               "id":174,
+               "price":69,
+               "value":1440,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#0B7753",
+               "name":"Zona III",
+               "description":"Celodnevna karta",
+               "parking_start":7,
+               "parking_end":15,
+               "parking_end_weekend":13,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"9253",
                "coordinates":[
                   
                ]
