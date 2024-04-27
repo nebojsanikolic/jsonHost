@@ -2081,7 +2081,7 @@
                     "price": 600
                 },
                 {
-                    "parking_zone_id": "15",
+                    "parking_zone_id": 15,
                     "sms_number": "9185",
                     "name": "Dnevna karta - Zelena zona",
                     "color": "#FFFFFF",
@@ -6311,7 +6311,7 @@
                     "price": 250
                 },
                 {
-                    "parking_zone_id": "53",
+                    "parking_zone_id": 53,
                     "sms_number": "9345",
                     "name": "Dnevna karta Zona III",
                     "color": "#FFFFFF",
@@ -6561,7 +6561,7 @@
                     "price": 95
                 },
                 {
-                    "parking_zone_id": "1202",
+                    "parking_zone_id": 1202,
                     "sms_number": "8214",
                     "name": "Dnevna karta - Najlon pijaca",
                     "color": "#FFFFFF",
@@ -6571,7 +6571,7 @@
                     "price": 80
                 },
                 {
-                    "parking_zone_id": "1203",
+                    "parking_zone_id": 1203,
                     "sms_number": "8288",
                     "name": "Dnevna karta - Okolina Novosadskog sajma",
                     "color": "#FFFFFF",
@@ -6581,7 +6581,7 @@
                     "price": 250
                 },
                 {
-                    "parking_zone_id": "1204",
+                    "parking_zone_id": 1204,
                     "sms_number": "8213",
                     "name": "Dnevna karta - Okolina kupališta „Štrand” ",
                     "color": "#FFFFFF",
@@ -6591,7 +6591,7 @@
                     "price": 35
                 },
                 {
-                    "parking_zone_id": "1205",
+                    "parking_zone_id": 1205,
                     "sms_number": "8288",
                     "name": "Parkirališta za potrebe EXIT festivala",
                     "color": "#FFFFFF",
@@ -11168,7 +11168,7 @@
                     "price": 408
                 },
                 {
-                    "parking_zone_id": "1302",
+                    "parking_zone_id": 1302,
                     "sms_number": "9246",
                     "name": "Dnevna karta - Žuta zona",
                     "color": "#FFFFFF",
@@ -11180,7 +11180,7 @@
                     "price": 258
                 },
                 {
-                    "parking_zone_id": "1303",
+                    "parking_zone_id": 1303,
                     "sms_number": "9243",
                     "name": "Dnevna karta - Zelena zona",
                     "color": "#FFFFFF",
@@ -11190,7 +11190,7 @@
                     "price": 120
                 },
                 {
-                    "parking_zone_id": "1304",
+                    "parking_zone_id": 1304,
                     "sms_number": "9247",
                     "name": "Dnevna karta - Plava zona",
                     "color": "#FFFFFF",
@@ -11386,7 +11386,7 @@
                     "price": 250
                 },
                 {
-                    "parking_zone_id": "1602",
+                    "parking_zone_id": 1602,
                     "sms_number": "9173",
                     "name": "Dnevna karta - Žuta zona",
                     "color": "#FFFFFF",
