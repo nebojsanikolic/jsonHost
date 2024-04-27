@@ -1,5 +1,5 @@
 {
-    "version": 1.11,
+    "version": 1.12,
     "cities": [
         {
             "city_name": "Čačak",
@@ -7,7 +7,7 @@
             "city_id": 1,
             "daily_tickets": [
                 {
-                    "parking_zone_id": "202",
+                    "parking_zone_id": 202,
                     "sms_number": "9325",
                     "name": "Dnevna Karta",
                     "color": "#FFFFFF",
@@ -761,7 +761,7 @@
             "city_id": 2,
             "daily_tickets": [
                 {
-                    "parking_zone_id": "105",
+                    "parking_zone_id": 105,
                     "sms_number": "9140",
                     "name": "Dnevna Karta",
                     "color": "#007AFF",
@@ -1644,7 +1644,7 @@
             "city_id": 3,
             "daily_tickets": [
                 {
-                    "parking_zone_id": "254",
+                    "parking_zone_id": 54,
                     "sms_number": "7325",
                     "name": "Dnevna Karta",
                     "color": "#FFFFFF",
@@ -2014,7 +2014,7 @@
             "city_id": 4,
             "daily_tickets": [
                 {
-                    "parking_zone_id": "234",
+                    "parking_zone_id": 234,
                     "sms_number": "9365",
                     "name": "Dnevna Karta",
                     "color": "#FFFFFF",
@@ -2069,7 +2069,7 @@
             "city_id": 5,
             "daily_tickets": [
                 {
-                    "parking_zone_id": "13",
+                    "parking_zone_id": 13,
                     "sms_number": "9184",
                     "name": "Dnevna karta - Crvena zona",
                     "color": "#FFFFFF",
@@ -2153,7 +2153,7 @@
             "city_id": 6,
             "daily_tickets": [
                 {
-                    "parking_zone_id": "35",
+                    "parking_zone_id": 35,
                     "sms_number": "8343",
                     "name": "Dnevna karta - Zona I",
                     "color": "#FFFFFF",
@@ -5376,7 +5376,7 @@
             "city_id": 7,
             "daily_tickets": [
                 {
-                    "parking_zone_id": "75",
+                    "parking_zone_id": 75,
                     "sms_number": "8313",
                     "name": "Dnevna karta - Zona I",
                     "color": "#FFFFFF",
@@ -6243,7 +6243,7 @@
             "city_id": 8,
             "daily_tickets": [
                 {
-                    "parking_zone_id": "192",
+                    "parking_zone_id": 192,
                     "sms_number": "8374",
                     "name": "Dnevna karta",
                     "color": "#FFFFFF",
@@ -6299,7 +6299,7 @@
             "city_id": 9,
             "daily_tickets": [
                 {
-                    "parking_zone_id": "51",
+                    "parking_zone_id": 51,
                     "sms_number": "9343",
                     "name": "Dnevna karta Zona II",
                     "color": "#FFFFFF",
@@ -6383,7 +6383,7 @@
             "city_id": 10,
             "daily_tickets": [
                 {
-                    "parking_zone_id": "48",
+                    "parking_zone_id": 48,
                     "sms_number": "8423",
                     "name": "Dnevna karta - Zona II",
                     "color": "#FFFFFF",
@@ -6548,7 +6548,7 @@
             "city_id": 12,
             "daily_tickets": [
                 {
-                    "parking_zone_id": "1201",
+                    "parking_zone_id": 1201,
                     "sms_number": "8215",
                     "name": "Dnevna karta - bela plus pojedini delovi plave",
                     "color": "#FFFFFF",
@@ -11156,7 +11156,7 @@
             "city_id": 13,
             "daily_tickets": [
                 {
-                    "parking_zone_id": "1301",
+                    "parking_zone_id": 1301,
                     "sms_number": "9245",
                     "name": "Dnevna karta - Crvena zona",
                     "color": "#FFFFFF",
@@ -11262,7 +11262,7 @@
             "city_id": 14,
             "daily_tickets": [
                 {
-                    "parking_zone_id": "1401",
+                    "parking_zone_id": 1401,
                     "sms_number": "9150",
                     "name": "Dnevna karta - Žuta zona",
                     "color": "#FFFFFF",
@@ -11318,7 +11318,7 @@
             "city_id": 15,
             "daily_tickets": [
                 {
-                    "parking_zone_id": "1501",
+                    "parking_zone_id": 1501,
                     "sms_number": "9050",
                     "name": "Dnevna karta - Sve zone",
                     "color": "#FFFFFF",
@@ -11374,7 +11374,7 @@
             "city_id": 16,
             "daily_tickets": [
                 {
-                    "parking_zone_id": "1601",
+                    "parking_zone_id": 1601,
                     "sms_number": "9170",
                     "name": "Dnevna karta - Prva zona",
                     "color": "#FFFFFF",
