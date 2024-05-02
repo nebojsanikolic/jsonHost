@@ -18913,7 +18913,7 @@
       "daily_tickets": [
         {
           "parking_zone_id": 1901,
-          "sms_number": 8293,
+          "sms_number": "8293",
           "name": "Zona II - Dnevna Karta",
           "color": "#FFC100",
           "desc": "Važi do kraja naplate u danu kada je plaćena",
