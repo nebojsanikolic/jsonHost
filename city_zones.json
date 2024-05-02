@@ -18848,7 +18848,7 @@
           "parking_zone_id": 1801,
           "sms_number": "7183",
           "name": "Crvena zona - dnevna karta",
-          "color": "#FFFFFF",
+          "color": "#B80000",
           "desc": "Važi do kraja naplate u danu kada je plaćena",
           "forZones": [
             181
