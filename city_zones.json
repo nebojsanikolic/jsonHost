@@ -1,5 +1,5 @@
 {
-  "version": 1.15,
+  "version": 1.16,
   "cities": [
     {
       "city_name": "Čačak",
@@ -18842,28 +18842,28 @@
     {
       "city_name": "Aleksinac",
       "city_short_name": "AL",
-      "city_id": 17,
+      "city_id": 18,
       "daily_tickets": [
         {
-          "parking_zone_id": 1701,
+          "parking_zone_id": 1801,
           "sms_number": "7183",
           "name": "Crvena zona - dnevna karta",
           "color": "#FFFFFF",
           "desc": "Važi do kraja naplate u danu kada je plaćena",
           "forZones": [
-            171
+            181
           ],
           "interval": 1440,
           "price": 340
         },
         {
-          "parking_zone_id": 1702,
+          "parking_zone_id": 1802,
           "sms_number": "9173",
           "name": "Zelena zona - dnevna karta",
           "color": "#1A5D1A",
           "desc": "Važi do kraja naplate u danu kada je plaćena",
           "forZones": [
-            172
+            182
           ],
           "interval": 1440,
           "price": 230
@@ -18871,7 +18871,7 @@
       ],
       "Zones": [
         {
-          "id": 171,
+          "id": 181,
           "price": 40,
           "value": 60,
           "per_hour": true,
@@ -18888,7 +18888,7 @@
           "coordinates": []
         },
         {
-          "id": 172,
+          "id": 182,
           "price": 35,
           "value": 60,
           "per_hour": true,
@@ -18902,6 +18902,61 @@
           "restriction": false,
           "restriction_time": 0,
           "sms_number": "7182",
+          "coordinates": []
+        }
+      ]
+    },
+    {
+      "city_name": "Bajina Bašta",
+      "city_short_name": "BB",
+      "city_id": 19,
+      "daily_tickets": [
+        {
+          "parking_zone_id": 1901,
+          "sms_number": 8293,
+          "name": "Zona II - Dnevna Karta",
+          "color": "#FFC100",
+          "desc": "Važi do kraja naplate u danu kada je plaćena",
+          "forZones": [
+            192
+          ],
+          "interval": 1440,
+          "price": 120
+        }
+      ],
+      "Zones": [
+        {
+          "id": 191,
+          "price": 35,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#B80000",
+          "name": "Zona I",
+          "description": "Maksimalno vreme zadržavanja je 120 minuta. ",
+          "parking_start": 7,
+          "parking_end": 20,
+          "parking_end_weekend": 14,
+          "restriction": true,
+          "restriction_time": 120,
+          "sms_number": "8291",
+          "coordinates": []
+        },
+        {
+          "id": 192,
+          "price": 25,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FFC100",
+          "name": "Zona II - Žuta Zona",
+          "description": "Neograniceno vreme parkiranja",
+          "parking_start": 7,
+          "parking_end": 20,
+          "parking_end_weekend": 14,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "8292",
           "coordinates": []
         }
       ]
