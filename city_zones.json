@@ -18846,7 +18846,7 @@
       "daily_tickets": [
         {
           "parking_zone_id": 1701,
-          "sms_number": 7183,
+          "sms_number": "7183",
           "name": "Crvena zona - dnevna karta",
           "color": "#FFFFFF",
           "desc": "Važi do kraja naplate u danu kada je plaćena",
