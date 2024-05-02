@@ -12997,7 +12997,7 @@
           "sms_number": "9243",
           "name": "Dnevna karta - Zelena zona",
           "color": "#FFFFFF",
-          "desc": "Neograničeno vreme parkiranja NVRD05:00 - 15:00",
+          "desc": "Neograničeno vreme parkiranja NVRD 05:00 - 15:00",
           "forZones": [],
           "interval": 600,
           "price": 120
