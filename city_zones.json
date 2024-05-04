@@ -1,5 +1,5 @@
 {
-   "version":1.22,
+   "version":1.23,
    "cities":[
       {
          "city_name":"Čačak",
@@ -19810,6 +19810,54 @@
                "restriction":false,
                "restriction_time":0,
                "sms_number":"8352",
+               "coordinates":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "city_name":"Inđija",
+         "city_short_name":"IN",
+         "city_id":26,
+         "daily_tickets":[
+            
+         ],
+         "Zones":[
+            {
+               "id":261,
+               "price":35,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#FF3932",
+               "name":"I Zona",
+               "description":"Nema vremenskog ograničenja.",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"9221",
+               "coordinates":[
+                  
+               ]
+            },
+            {
+               "id":262,
+               "price":35,
+               "value":120,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#ffaa00",
+               "name":"II Zona",
+               "description":"Nema vremenskog ograničenja.",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"9222",
                "coordinates":[
                   
                ]
