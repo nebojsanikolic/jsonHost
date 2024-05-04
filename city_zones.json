@@ -1,5 +1,5 @@
 {
-   "version":1.24,
+   "version":1.25,
    "cities":[
       {
          "city_name":"Čačak",
@@ -19875,7 +19875,7 @@
             {
                "id":271,
                "price":35,
-               "value":50,
+               "value":60,
                "per_hour":true,
                "currency":"RSD",
                "color":"#FF3932",
@@ -19906,6 +19906,65 @@
                "restriction":false,
                "restriction_time":0,
                "sms_number":"8322",
+               "coordinates":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "city_name":"Jagodina",
+         "city_short_name":"JA",
+         "city_id":28,
+         "daily_tickets":[
+            {
+               "parking_zone_id":2801,
+               "sms_number":"3504",
+               "name":"Dnevna karta Zona II",
+               "color":"#FFFFFF",
+               "desc":"Važi do kraja naplate u danu kada je plaćena.",
+               "forZones":[
+                  282
+               ],
+               "interval":1440,
+               "price":200
+            }
+         ],
+         "Zones":[
+            {
+               "id":281,
+               "price":50,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#FF3932",
+               "name":"Zona I",
+               "description":"Nema vremenskog ograničenja.",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"3501",
+               "coordinates":[
+                  
+               ]
+            },
+            {
+               "id":282,
+               "price":42,
+               "value":60,
+               "per_hour":true,
+               "currency":"RSD",
+               "color":"#FEFF04",
+               "name":"Zona II",
+               "description":"Nema vremenskog ograničenja.",
+               "parking_start":7,
+               "parking_end":21,
+               "parking_end_weekend":14,
+               "restriction":false,
+               "restriction_time":0,
+               "sms_number":"3502",
                "coordinates":[
                   
                ]
