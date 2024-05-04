@@ -1,5 +1,5 @@
 {
-  "version": 1.19,
+  "version": 1.20,
   "cities": [
     {
       "city_name": "Čačak",
@@ -19492,6 +19492,86 @@
           "restriction": false,
           "restriction_time": 0,
           "sms_number": "8532",
+          "coordinates": []
+        }
+      ]
+    },{
+      "city_name": "Ćuprija",
+      "city_short_name": "ĆU",
+      "city_id": 23,
+      "daily_tickets": [
+        {
+          "parking_zone_id": 2301,
+          "sms_number": "3523",
+          "name": "Dnevna karta Zona I",
+          "color": "#FFFFFF",
+          "desc": "Važi do kraja naplate u danu kada je plaćena za plavu i crvenu zonu.",
+          "forZones": [
+              232
+          ],
+          "interval": 1440,
+          "price": 145
+        },{
+          "parking_zone_id": 2302,
+          "sms_number": "3524",
+          "name": "Dnevna karta Zona II",
+          "color": "#FFFFFF",
+          "desc": "Važi do kraja naplate u danu kada je plaćena za plavu i crvenu zonu.",
+          "forZones": [
+              233
+          ],
+          "interval": 1440,
+          "price": 90
+        }
+      ],
+      "Zones": [
+        {
+          "id": 231,
+          "price": 36,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#830A83",
+          "name": "Ekstra zona",
+          "description": "Nema vremenskog ograničenja.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "3520",
+          "coordinates": []
+        },{
+          "id": 232,
+          "price": 36,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FF3932",
+          "name": "Zona I",
+          "description": "Nema vremenskog ograničenja.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "3521",
+          "coordinates": []
+        },{
+          "id": 233,
+          "price": 25,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#3366FF",
+          "name": "Zona II",
+          "description": "Nema vremenskog ograničenja.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "3522",
           "coordinates": []
         }
       ]
