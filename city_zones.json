@@ -1,5 +1,5 @@
 {
-  "version": 1.16,
+  "version": 1.17,
   "cities": [
     {
       "city_name": "Čačak",
@@ -19317,6 +19317,43 @@
           "restriction": false,
           "restriction_time": 0,
           "sms_number": "8292",
+          "coordinates": []
+        }
+      ]
+    },{
+      "city_name": "Bečej",
+      "city_short_name": "BČ",
+      "city_id": 20,
+      "daily_tickets": [
+        {
+          "parking_zone_id": 2001,
+          "sms_number": "8522",
+          "name": "Centralna - Dnevna Karta",
+          "color": "#A52A2A",
+          "desc": "Važi do kraja naplate u danu kada je plaćena",
+          "forZones": [
+            202
+          ],
+          "interval": 1440,
+          "price": 120
+        }
+      ],
+      "Zones": [
+        {
+          "id": 201,
+          "price": 30,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#A52A2A",
+          "name": "Centralna",
+          "description": "Nema vremenskog ograničenja.",
+          "parking_start": 7,
+          "parking_end": 19,
+          "parking_end_weekend": 12,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "8521",
           "coordinates": []
         }
       ]
