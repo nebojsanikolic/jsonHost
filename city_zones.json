@@ -1,5 +1,5 @@
 {
-  "version": 1.18,
+  "version": 1.19,
   "cities": [
     {
       "city_name": "Čačak",
@@ -19320,7 +19320,8 @@
           "coordinates": []
         }
       ]
-    },{
+    },
+    {
       "city_name": "Bečej",
       "city_short_name": "BČ",
       "city_id": 20,
@@ -19357,7 +19358,8 @@
           "coordinates": []
         }
       ]
-    },{
+    },
+    {
       "city_name": "Bujanovac",
       "city_short_name": "BU",
       "city_id": 21,
@@ -19373,7 +19375,8 @@
           ],
           "interval": 1440,
           "price": 422
-        },{
+        },
+        {
           "parking_zone_id": 2102,
           "sms_number": "9073",
           "name": "Žuta - Dnevna Karta",
@@ -19403,7 +19406,8 @@
           "restriction_time": 0,
           "sms_number": "9071",
           "coordinates": []
-        },{
+        },
+        {
           "id": 212,
           "price": 46,
           "value": 60,
@@ -19418,6 +19422,76 @@
           "restriction": false,
           "restriction_time": 0,
           "sms_number": "9072",
+          "coordinates": []
+        }
+      ]
+    },{
+      "city_name": "Čajetina - Zlatibor",
+      "city_short_name": "UE",
+      "city_id": 22,
+      "daily_tickets": [
+        {
+          "parking_zone_id": 2201,
+          "sms_number": "8533",
+          "name": "Dnevna Karta",
+          "color": "#FFFFFF",
+          "desc": "Važi do kraja naplate u danu kada je plaćena za plavu i crvenu zonu.",
+          "forZones": [
+            222,
+            223
+          ],
+          "interval": 1440,
+          "price": 500
+        }
+      ],
+      "Zones": [
+        {
+          "id": 221,
+          "price": 100,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#830A83",
+          "name": "Ekstra zona",
+          "description": "Nema vremenskog ograničenja.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "8534",
+          "coordinates": []
+        },{
+          "id": 222,
+          "price": 50,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FF3932",
+          "name": "Crvena zona",
+          "description": "Nema vremenskog ograničenja.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "8531",
+          "coordinates": []
+        },{
+          "id": 223,
+          "price": 40,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#3366FF",
+          "name": "Plava zona",
+          "description": "Nema vremenskog ograničenja.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "8532",
           "coordinates": []
         }
       ]
