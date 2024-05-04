@@ -19357,6 +19357,70 @@
           "coordinates": []
         }
       ]
+    },{
+      "city_name": "Bujanovac",
+      "city_short_name": "BU",
+      "city_id": 21,
+      "daily_tickets": [
+        {
+          "parking_zone_id": 2101,
+          "sms_number": "9070",
+          "name": "Crvena - Dnevna Karta",
+          "color": "#A52A2A",
+          "desc": "Važi do kraja naplate u danu kada je plaćena",
+          "forZones": [
+            211
+          ],
+          "interval": 1440,
+          "price": 422
+        },{
+          "parking_zone_id": 2102,
+          "sms_number": "9073",
+          "name": "Žuta - Dnevna Karta",
+          "color": "#FFC100",
+          "desc": "Važi do kraja naplate u danu kada je plaćena",
+          "forZones": [
+            212
+          ],
+          "interval": 1440,
+          "price": 317
+        }
+      ],
+      "Zones": [
+        {
+          "id": 211,
+          "price": 53,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#A52A2A",
+          "name": "Crvena zona",
+          "description": "Nema vremenskog ograničenja.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "9071",
+          "coordinates": []
+        },{
+          "id": 212,
+          "price": 46,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FFC100",
+          "name": "Žuta zona",
+          "description": "Nema vremenskog ograničenja.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "9072",
+          "coordinates": []
+        }
+      ]
     }
   ]
 }
