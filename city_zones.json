@@ -19937,7 +19937,7 @@
                "value":60,
                "per_hour":true,
                "currency":"RSD",
-               "color":"#FF3932",
+               "color":"#FFC100",
                "name":"Zona I",
                "description":"Nema vremenskog ograničenja.",
                "parking_start":7,
