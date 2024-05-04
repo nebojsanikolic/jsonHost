@@ -19575,6 +19575,65 @@
           "coordinates": []
         }
       ]
-    }
+    },{
+   "city_name":"Despotovac",
+   "city_short_name":"DE",
+   "city_id":24,
+   "daily_tickets":[
+      {
+         "parking_zone_id":2401,
+         "sms_number":"8353",
+         "name":"Dnevna karta",
+         "color":"#FFFFFF",
+         "desc":"Važi za obe zone, do kraja naplate u danu kada je plaćena.",
+         "forZones":[
+            241,
+            242
+         ],
+         "interval":1440,
+         "price":0
+      }
+   ],
+   "Zones":[
+      {
+         "id":241,
+         "price":50,
+         "value":60,
+         "per_hour":true,
+         "currency":"RSD",
+         "color":"#FF3932",
+         "name":"Zona I",
+         "description":"Nema vremenskog ograničenja.",
+         "parking_start":7,
+         "parking_end":20,
+         "parking_end_weekend":14,
+         "restriction":false,
+         "restriction_time":0,
+         "sms_number":"8351",
+         "coordinates":[
+            
+         ]
+      },
+      {
+         "id":242,
+         "price":30,
+         "value":60,
+         "per_hour":true,
+         "currency":"RSD",
+         "color":"#3366FF",
+         "name":"Zona II",
+         "description":"Nema vremenskog ograničenja.",
+         "parking_start":7,
+         "parking_end":20,
+         "parking_end_weekend":14,
+         "restriction":false,
+         "restriction_time":0,
+         "sms_number":"8352",
+         "coordinates":[
+            
+         ]
+      }
+   ]
+}
   ]
 }
