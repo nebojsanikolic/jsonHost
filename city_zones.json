@@ -1,5 +1,5 @@
 {
-  "version": 1.27,
+  "version": 1.28,
   "cities": [
     {
       "city_name": "Čačak",
@@ -14350,52 +14350,6 @@
           "restriction": false,
           "restriction_time": 0,
           "sms_number": "9222",
-          "coordinates": []
-        }
-      ]
-    },
-    {
-      "city_name": "Ivanjica",
-      "city_short_name": "IC",
-      "city_coordinate": {
-        "latitude": 43.5826,
-        "longitude": 20.2301
-      },
-      "city_id": 27,
-      "daily_tickets": [],
-      "Zones": [
-        {
-          "id": 271,
-          "price": 35,
-          "value": 60,
-          "per_hour": true,
-          "currency": "RSD",
-          "color": "#FF3932",
-          "name": "Crvena zona",
-          "description": "Nema vremenskog ograničenja.",
-          "parking_start": 7,
-          "parking_end": 21,
-          "parking_end_weekend": 14,
-          "restriction": false,
-          "restriction_time": 0,
-          "sms_number": "8321",
-          "coordinates": []
-        },
-        {
-          "id": 272,
-          "price": 40,
-          "value": 60,
-          "per_hour": true,
-          "currency": "RSD",
-          "color": "#23397E",
-          "name": "Plava zona",
-          "description": "Nema vremenskog ograničenja.",
-          "parking_start": 7,
-          "parking_end": 21,
-          "parking_end_weekend": 14,
-          "restriction": false,
-          "restriction_time": 0,
-          "sms_number": "8322",
           "coordinates": []
         }
       ]
