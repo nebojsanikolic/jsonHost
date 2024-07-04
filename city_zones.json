@@ -1,5 +1,5 @@
 {
-  "version": 1.29,
+  "version": 1.30,
   "cities": [
     {
       "city_name": "Čačak",
@@ -14991,7 +14991,8 @@
           "restriction_time": 0,
           "sms_number": "9372",
           "coordinates": []
-        },{
+        },
+        {
           "id": 313,
           "price": 10,
           "value": 60,
@@ -15006,6 +15007,82 @@
           "restriction": true,
           "restriction_time": 180,
           "sms_number": "9373",
+          "coordinates": []
+        }
+      ]
+    },
+    {
+      "city_name": "Lazarevac",
+      "city_short_name": "BG",
+      "city_id": 32,
+      "city_coordinate": {
+        "latitude": 44.3788,
+        "longitude": 20.2624
+      },
+      "daily_tickets": [
+        {
+          "parking_zone_id": 3201,
+          "sms_number": "9280",
+          "name": "Dnevna karta Zona II",
+          "color": "#FFFFFF",
+          "desc": "Važi samo za Zonu II do kraja naplate parkinga za taj dan.",
+          "forZones": [
+            323
+          ],
+          "interval": 1440,
+          "price": 200
+        }
+      ],
+      "Zones": [
+        {
+          "id": 321,
+          "price": 70,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#5D3FD3",
+          "name": "Ekstra zona",
+          "description": "Maksimalno 120 minuta.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": true,
+          "restriction_time": 180,
+          "sms_number": "9289",
+          "coordinates": []
+        },
+        {
+          "id": 322,
+          "price": 51.75,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FF3932",
+          "name": "Zona I",
+          "description": "Maksimalno jednokratno parkiranje 3 sata.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "9281",
+          "coordinates": []
+        },
+        {
+          "id": 323,
+          "price": 40.25,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FFC100",
+          "name": "Zona II",
+          "description": "Bez ograničenja.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": true,
+          "restriction_time": 180,
+          "sms_number": "9282",
           "coordinates": []
         }
       ]
