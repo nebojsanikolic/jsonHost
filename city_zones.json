@@ -1,5 +1,5 @@
 {
-  "version": 1.30,
+  "version": 1.31,
   "cities": [
     {
       "city_name": "Čačak",
@@ -15083,6 +15083,257 @@
           "restriction": true,
           "restriction_time": 180,
           "sms_number": "9282",
+          "coordinates": []
+        }
+      ]
+    },{
+      "city_name": "Leskovac",
+      "city_short_name": "LE",
+      "city_id": 33,
+      "city_coordinate": {
+        "latitude": 42.9963,
+        "longitude": 21.9430
+      },
+      "daily_tickets": [
+        {
+          "parking_zone_id": 3301,
+          "sms_number": "8162",
+          "name": "Dnevna karta",
+          "color": "#FFFFFF",
+          "desc": "Važi za obe zone, bez ograničenja.",
+          "forZones": [
+            331,
+            332
+          ],
+          "interval": 1440,
+          "price": 150
+        }
+      ],
+      "Zones": [
+        {
+          "id": 331,
+          "price": 33,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FF3932",
+          "name": "Zona I",
+          "description": "Bez vremenskog ograničenja.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 15,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "8160",
+          "coordinates": []
+        },
+        {
+          "id": 332,
+          "price": 27,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FFC100",
+          "name": "Zona II",
+          "description": "Bez vremenskog ograničenja.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 15,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "8161",
+          "coordinates": []
+        }
+      ]
+    },{
+      "city_name": "Loznica",
+      "city_short_name": "LO",
+      "city_id": 34,
+      "city_coordinate": {
+        "latitude": 44.5338,
+        "longitude": 19.2238
+      },
+      "daily_tickets": [
+        {
+          "parking_zone_id": 3401,
+          "sms_number": "9050",
+          "name": "Dnevna karta",
+          "color": "#FFFFFF",
+          "desc": "Važi za obe zone, bez ograničenja.",
+          "forZones": [
+            341,
+            342
+          ],
+          "interval": 1440,
+          "price": 144
+        }
+      ],
+      "Zones": [
+        {
+          "id": 341,
+          "price": 46,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FF3932",
+          "name": "Prva zona",
+          "description": "Bez vremenskog ograničenja.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "9051",
+          "coordinates": []
+        },
+        {
+          "id": 342,
+          "price": 30,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FF3932",
+          "name": "Druga zona",
+          "description": "Bez vremenskog ograničenja.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "9052",
+          "coordinates": []
+        }
+      ]
+    },{
+      "city_name": "Mladenovac",
+      "city_short_name": "BG",
+      "city_id": 35,
+      "city_coordinate": {
+        "latitude": 44.4364,
+        "longitude": 20.6939
+      },
+      "daily_tickets": [
+        {
+          "parking_zone_id": 3501,
+          "sms_number": "9820",
+          "name": "Dnevna karta",
+          "color": "#FFFFFF",
+          "desc": "Važi za drugu zonu (Žutu), bez ograničenja.",
+          "forZones": [
+            352
+          ],
+          "interval": 1440,
+          "price": 180
+        }
+      ],
+      "Zones": [
+        {
+          "id": 351,
+          "price": 42,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FF3932",
+          "name": "Prva zona",
+          "description": "Korišćenje parkirališta po započetom satu plaćanjem satne karte u prvoj zoni utvrđeno na 120 minuta, sa tim da se istom korisniku u istoj zoni vreme korišćenja može produžiti 60 minuta (84 dinara), i može od strane istog korisnika u istoj zoni ponovo otpočeti nakon 30 minuta od isteka utvrđenog vremena.",
+          "parking_start": 7,
+          "parking_end": 20,
+          "parking_end_weekend": 14,
+          "restriction": true,
+          "restriction_time": 180,
+          "sms_number": "9821",
+          "coordinates": []
+        },
+        {
+          "id": 352,
+          "price": 30,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FFC100",
+          "name": "Žuta zona",
+          "description": "Bez vremenskog ograničenja.",
+          "parking_start": 7,
+          "parking_end": 20,
+          "parking_end_weekend": 14,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "9822",
+          "coordinates": []
+        }
+      ]
+    },
+    {
+      "city_name": "Novi Pazar",
+      "city_short_name": "NP",
+      "city_id": 36,
+      "city_coordinate": {
+        "latitude": 43.1407,
+        "longitude": 20.5181
+      },
+      "daily_tickets": [
+        {
+          "parking_zone_id": 3601,
+          "sms_number": "8634",
+          "name": "Dnevna karta",
+          "color": "#FFFFFF",
+          "desc": "Važi za Zona II (Žutu), bez ograničenja.",
+          "forZones": [
+            363
+          ],
+          "interval": 1440,
+          "price": 200
+        }
+      ],
+      "Zones": [
+        {
+          "id": 361,
+          "price": 70,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#F9F6EE",
+          "name": "Ekstra zona",
+          "description": "Maksimalno 120 minuta.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": true,
+          "restriction_time": 120,
+          "sms_number": "8630",
+          "coordinates": []
+        },
+        {
+          "id": 362,
+          "price": 60,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FF3932",
+          "name": "Zona I",
+          "description": "Maksimalno 120 minuta.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": true,
+          "restriction_time": 120,
+          "sms_number": "8631",
+          "coordinates": []
+        },{
+          "id": 363,
+          "price": 50,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FFC100",
+          "name": "Zona II",
+          "description": "Bez vremenskog ograničenja.",
+          "parking_start": 7,
+          "parking_end": 21,
+          "parking_end_weekend": 14,
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "8632",
           "coordinates": []
         }
       ]
