@@ -1,5 +1,5 @@
 {
-  "version": 1.32,
+  "version": 1.33,
   "cities": [
     {
       "city_name": "Čačak",
@@ -5175,7 +5175,7 @@
           "currency": "RSD",
           "color": "#00BC6D",
           "name": "Zona 2",
-          "description": "TODO",
+          "description": "Bez vremenskog ograničenja.",
           "parking_start": 7,
           "parking_end": 21,
           "parking_end_weekend": 14,
@@ -13537,66 +13537,6 @@
           "restriction": false,
           "restriction_time": 0,
           "sms_number": "9152",
-          "coordinates": []
-        }
-      ]
-    },
-    {
-      "city_name": "Loznica",
-      "city_short_name": "LO",
-      "city_coordinate": {
-        "latitude": 44.5338,
-        "longitude": 19.2238
-      },
-      "city_id": 15,
-      "daily_tickets": [
-        {
-          "parking_zone_id": 1501,
-          "sms_number": "9050",
-          "name": "Dnevna karta - Sve zone",
-          "color": "#FFFFFF",
-          "desc": "Neograničeno vreme parkiranja za obe zone",
-          "forZones": [
-            151,
-            152
-          ],
-          "interval": 1440,
-          "price": 144
-        }
-      ],
-      "Zones": [
-        {
-          "id": 151,
-          "price": 46,
-          "value": 60,
-          "per_hour": true,
-          "currency": "RSD",
-          "color": "#C41E3A",
-          "name": "Prva zona",
-          "description": "",
-          "parking_start": 7,
-          "parking_end": 21,
-          "parking_end_weekend": 14,
-          "restriction": false,
-          "restriction_time": 0,
-          "sms_number": "9051",
-          "coordinates": []
-        },
-        {
-          "id": 152,
-          "price": 30,
-          "value": 60,
-          "per_hour": true,
-          "currency": "RSD",
-          "color": "#0047AB",
-          "name": "Druga zona",
-          "description": "-",
-          "parking_start": 7,
-          "parking_end": 21,
-          "parking_end_weekend": 14,
-          "restriction": false,
-          "restriction_time": 0,
-          "sms_number": "9052",
           "coordinates": []
         }
       ]
