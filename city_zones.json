@@ -1,5 +1,5 @@
 {
-  "version": 1.35,
+  "version": 1.36,
   "cities": [
     {
       "city_name": "Čačak",
@@ -439,6 +439,84 @@
               {
                 "latitude": 43.8878213,
                 "longitude": 20.3529902
+              }
+            ],
+            [
+              {
+                "latitude": 43.8950541,
+                "longitude": 20.3501463
+              },
+              {
+                "latitude": 43.8948415,
+                "longitude": 20.3500766
+              },
+              {
+                "latitude": 43.8953711,
+                "longitude": 20.3509671
+              },
+              {
+                "latitude": 43.89546,
+                "longitude": 20.350849
+              },
+              {
+                "latitude": 43.8950541,
+                "longitude": 20.3501463
+              }
+            ],
+            [
+              {
+                "latitude": 43.8956716,
+                "longitude": 20.3510549
+              },
+              {
+                "latitude": 43.895602,
+                "longitude": 20.351189
+              },
+              {
+                "latitude": 43.8971057,
+                "longitude": 20.3527929
+              },
+              {
+                "latitude": 43.8971831,
+                "longitude": 20.3526588
+              },
+              {
+                "latitude": 43.8956716,
+                "longitude": 20.3510549
+              }
+            ],
+            [
+              {
+                "latitude": 43.8954202,
+                "longitude": 20.3508832
+              },
+              {
+                "latitude": 43.8952655,
+                "longitude": 20.3510012
+              },
+              {
+                "latitude": 43.8937038,
+                "longitude": 20.3515538
+              },
+              {
+                "latitude": 43.8937386,
+                "longitude": 20.3517254
+              },
+              {
+                "latitude": 43.8951225,
+                "longitude": 20.3512265
+              },
+              {
+                "latitude": 43.895339,
+                "longitude": 20.3511353
+              },
+              {
+                "latitude": 43.8955245,
+                "longitude": 20.3509637
+              },
+              {
+                "latitude": 43.8954202,
+                "longitude": 20.3508832
               }
             ]
           ]
