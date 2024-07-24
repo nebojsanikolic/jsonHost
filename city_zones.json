@@ -1,5 +1,5 @@
 {
-  "version": 1.38,
+  "version": 1.39,
   "cities": [
     {
       "city_name": "Čačak",
@@ -9181,7 +9181,7 @@
           "per_hour": true,
           "currency": "RSD",
           "color": "#FF0302",
-          "name": "Prva zona (crvena)",
+          "name": "Prva zona",
           "description": "Mogućnost produženog parkiranja od 30 minuta (100 dinara)",
           "parking_start": 7,
           "parking_end": 21,
@@ -9337,7 +9337,7 @@
           "per_hour": true,
           "currency": "RSD",
           "color": "#FFD425",
-          "name": "Druga zona (žuta)",
+          "name": "Druga zona",
           "description": "Mogućnost produženog parkiranja od 60 minuta (180 dinara)",
           "parking_start": 7,
           "parking_end": 21,
@@ -9693,7 +9693,7 @@
           "per_hour": true,
           "currency": "RSD",
           "color": "#36A557",
-          "name": "Treća zona (zelena)",
+          "name": "Treća zona",
           "description": "Mogućnost produženog parkiranja od 60 minuta (140 dinara)",
           "parking_start": 7,
           "parking_end": 21,
@@ -10647,7 +10647,7 @@
           "per_hour": true,
           "currency": "RSD",
           "color": "3081D0",
-          "name": "Opšta zona (plava)",
+          "name": "Opšta zona",
           "description": "Mogućnost produženog parkiranja od 60 minuta (140 dinara)",
           "parking_start": 8,
           "parking_end": 21,
