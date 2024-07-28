@@ -1,5 +1,5 @@
 {
-  "version": 1.41,
+  "version": 1.42,
   "cities": [
     {
       "city_name": "Čačak",
@@ -1008,12 +1008,12 @@
                 "longitude": 20.34695
               },
               {
-                "latitude": 43.8904196,
-                "longitude": 20.3475923
+                "latitude": 43.8904191,
+                "longitude": 20.3476916
               },
               {
-                "latitude": 43.8905047,
-                "longitude": 20.3476098
+                "latitude": 43.8904989,
+                "longitude": 20.3477191
               },
               {
                 "latitude": 43.8906119,
