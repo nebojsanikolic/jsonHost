@@ -1,5 +1,5 @@
 {
-  "version": 1.40,
+  "version": 1.41,
   "cities": [
     {
       "city_name": "Čačak",
@@ -801,7 +801,7 @@
           "value": 60,
           "currency": "RSD",
           "per_hour": true,
-          "description": "Hajduk Veljkova, Bogićevićeva, Lučna zgrada, Rajićeva",
+          "description": "Hajduk Veljkova, Bogićevićeva, Lučna zgrada, Rajićeva, Krenov prolaz",
           "sms_number": "9321",
           "coordinates": [
             [
@@ -942,86 +942,86 @@
             ],
             [
               {
-                "latitude": 43.8921255,
-                "longitude": 20.3480749
+                "latitude": 43.892126,
+                "longitude": 20.3480736
               },
               {
-                "latitude": 43.8917795,
-                "longitude": 20.3487267
+                "latitude": 43.89178,
+                "longitude": 20.3487254
               },
               {
-                "latitude": 43.8917293,
-                "longitude": 20.3491102
+                "latitude": 43.8917298,
+                "longitude": 20.3491089
               },
               {
-                "latitude": 43.891822,
-                "longitude": 20.3490888
+                "latitude": 43.8918225,
+                "longitude": 20.3490875
               },
               {
-                "latitude": 43.8918394,
-                "longitude": 20.3490271
+                "latitude": 43.8918399,
+                "longitude": 20.3490258
               },
               {
-                "latitude": 43.8918994,
-                "longitude": 20.3490244
+                "latitude": 43.8918999,
+                "longitude": 20.3490231
               },
               {
-                "latitude": 43.8919129,
-                "longitude": 20.3489627
+                "latitude": 43.8919134,
+                "longitude": 20.3489614
               },
               {
-                "latitude": 43.8922028,
-                "longitude": 20.3491049
+                "latitude": 43.8922033,
+                "longitude": 20.3491036
               },
               {
-                "latitude": 43.8923304,
-                "longitude": 20.349306
+                "latitude": 43.8923309,
+                "longitude": 20.3493047
               },
               {
-                "latitude": 43.8923652,
-                "longitude": 20.3494804
+                "latitude": 43.8923657,
+                "longitude": 20.3494791
               },
               {
-                "latitude": 43.8925508,
-                "longitude": 20.3493114
+                "latitude": 43.8925513,
+                "longitude": 20.3493101
               },
               {
-                "latitude": 43.8924367,
-                "longitude": 20.3490593
+                "latitude": 43.8924406,
+                "longitude": 20.3490191
               },
               {
-                "latitude": 43.8920347,
-                "longitude": 20.3487991
+                "latitude": 43.8920352,
+                "longitude": 20.3487978
               },
               {
-                "latitude": 43.8922917,
-                "longitude": 20.3482841
+                "latitude": 43.8922922,
+                "longitude": 20.3482828
               },
               {
-                "latitude": 43.8921255,
-                "longitude": 20.3480749
+                "latitude": 43.892126,
+                "longitude": 20.3480736
               }
             ],
             [
               {
-                "latitude": 43.8908961,
-                "longitude": 20.3470948
+                "latitude": 43.8905143,
+                "longitude": 20.34695
               },
               {
-                "latitude": 43.8908265,
-                "longitude": 20.3484949
+                "latitude": 43.8904196,
+                "longitude": 20.3475923
               },
               {
-                "latitude": 43.8909773,
-                "longitude": 20.3485057
+                "latitude": 43.8905047,
+                "longitude": 20.3476098
               },
               {
-                "latitude": 43.8910159,
-                "longitude": 20.3471377
+                "latitude": 43.8906119,
+                "longitude": 20.3469741
               },
               {
-                "latitude": 43.8908961,
-                "longitude": 20.3470948
+                "latitude": 43.8905143,
+                "longitude": 20.34695
               }
             ]
           ],
