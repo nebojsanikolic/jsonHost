@@ -1,5 +1,5 @@
 {
-  "version": 1.44,
+  "version": 1.45,
   "cities": [
     {
       "city_name": "Čačak",
@@ -17725,7 +17725,7 @@
           "value": 60,
           "per_hour": true,
           "currency": "RSD",
-          "color": "#C41E3A",
+          "color": "#FF3932",
           "name": "Crvena zona",
           "description": "",
           "parking_start": 7,
@@ -18055,7 +18055,7 @@
           "value": 60,
           "per_hour": true,
           "currency": "RSD",
-          "color": "#EED202",
+          "color": "#FFC100",
           "name": "Žuta zona",
           "description": "",
           "parking_start": 7,
@@ -18629,7 +18629,7 @@
           "value": 30,
           "per_hour": true,
           "currency": "RSD",
-          "color": "#0D57FD",
+          "color": "#007AFF",
           "name": "Plava zona",
           "description": "",
           "parking_start": 7,
