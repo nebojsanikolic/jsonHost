@@ -1,5 +1,5 @@
 {
-  "version": 1.46,
+  "version": 1.47,
   "cities": [
     {
       "city_name": "Čačak",
@@ -21947,84 +21947,7 @@
           "restriction": false,
           "restriction_time": 0,
           "sms_number": "8451",
-          "coordinates": [
-            [
-              {
-                "latitude": 43.566281,
-                "longitude": 22.2522493
-              },
-              {
-                "latitude": 43.5661139,
-                "longitude": 22.2523566
-              },
-              {
-                "latitude": 43.5663082,
-                "longitude": 22.2530378
-              },
-              {
-                "latitude": 43.566487,
-                "longitude": 22.2529091
-              },
-              {
-                "latitude": 43.566281,
-                "longitude": 22.2522493
-              }
-            ],
-            [
-              {
-                "latitude": 43.566908,
-                "longitude": 22.2541165
-              },
-              {
-                "latitude": 43.5668109,
-                "longitude": 22.2541594
-              },
-              {
-                "latitude": 43.5671918,
-                "longitude": 22.2551035
-              },
-              {
-                "latitude": 43.5674289,
-                "longitude": 22.2569328
-              },
-              {
-                "latitude": 43.5670635,
-                "longitude": 22.2569811
-              },
-              {
-                "latitude": 43.5670791,
-                "longitude": 22.257142
-              },
-              {
-                "latitude": 43.5674405,
-                "longitude": 22.2570937
-              },
-              {
-                "latitude": 43.5674794,
-                "longitude": 22.2573941
-              },
-              {
-                "latitude": 43.5676776,
-                "longitude": 22.2573727
-              },
-              {
-                "latitude": 43.5675183,
-                "longitude": 22.2559672
-              },
-              {
-                "latitude": 43.5673861,
-                "longitude": 22.2549372
-              },
-              {
-                "latitude": 43.5672462,
-                "longitude": 22.2549158
-              },
-              {
-                "latitude": 43.566908,
-                "longitude": 22.2541165
-              }
-            ]
-          ]
+          "coordinates": []
         },
         {
           "id": 252,
