@@ -1,5 +1,5 @@
 {
-  "version": 1.52,
+  "version": 1.53,
   "cities": [
     {
       "city_name": "Čačak",
@@ -17,8 +17,8 @@
           "color": "#FFFFFF",
           "desc": "Važi za zelenu i žutu zonu",
           "forZones": [
-            2,
-            3
+            1,
+            2
           ],
           "interval": 1440,
           "price": 190
@@ -32,7 +32,7 @@
           "per_hour": true,
           "currency": "RSD",
           "color": "#007AFF",
-          "name": "Plava Zona",
+          "name": "Zona III",
           "description": "Svetozara Markovića, Cara Dušana, Kralja Petra prvog, Jaše Prodanovića, Obilićeva (od ulice Cara Lazara do Nemanjine ulice), Železnička kolonija, Bate Jankovića, Veselina Milikića (od ulice Kralja Petra prvog do Učiteljske ulice)",
           "parking_start": 7,
           "parking_end": 16,
@@ -523,7 +523,7 @@
         },
         {
           "id": 2,
-          "name": "Zelena Zona",
+          "name": "Zona II",
           "color": "#008000",
           "price": 30,
           "value": 60,
@@ -795,7 +795,7 @@
         },
         {
           "id": 3,
-          "name": "Zuta Zona",
+          "name": "Zona I",
           "color": "#FFBF00",
           "price": 50,
           "value": 60,
