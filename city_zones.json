@@ -1,5 +1,5 @@
 {
-  "version": 1.53,
+  "version": 1.54,
   "cities": [
     {
       "city_name": "Čačak",
@@ -4799,7 +4799,7 @@
           "parking_end_weekend": 14,
           "restriction": true,
           "restriction_time": 60,
-          "sms_number": "8430",
+          "sms_number": "8340",
           "coordinates": [
             [
               {
