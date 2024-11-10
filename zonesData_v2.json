@@ -1,5 +1,5 @@
 {
-  "version": 1.56,
+  "version": 1.57,
   "cities": [
     {
       "city_name": "Čačak",
@@ -22391,11 +22391,11 @@
             },
             "saturday": {
               "start": 7,
-              "end": 14
+              "end": 21
             },
             "sunday": {
-              "start": null,
-              "end": null
+              "start": 7,
+              "end": 21
             }
           }
         },
@@ -22419,11 +22419,11 @@
             },
             "saturday": {
               "start": 7,
-              "end": 14
+              "end": 21
             },
             "sunday": {
-              "start": null,
-              "end": null
+              "start": 7,
+              "end": 21
             }
           }
         },
@@ -22447,11 +22447,11 @@
             },
             "saturday": {
               "start": 7,
-              "end": 14
+              "end": 21
             },
             "sunday": {
-              "start": null,
-              "end": null
+              "start": 7,
+              "end": 21
             }
           }
         }
