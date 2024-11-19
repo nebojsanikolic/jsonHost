@@ -33665,6 +33665,124 @@
           }
         }
       ]
+    },{
+      "city_name": "Vrnjačka Banja",
+      "city_short_name": "VB",
+      "city_coordinate": {
+        "latitude": 43.6253,
+        "longitude": 20.8952
+      },
+      "city_id": 47,
+      "daily_tickets": [
+        {
+          "parking_zone_id": 4701,
+          "sms_number": "9633",
+          "name": "Dnevna Karta",
+          "color": "#FFFFFF",
+          "desc": "Važi za dan u kom je karta uplaćena",
+          "forZones": [
+            472
+          ],
+          "interval": 1440,
+          "price": 300
+        },{
+          "parking_zone_id": 4702,
+          "sms_number": "9634",
+          "name": "Dnevna Karta",
+          "color": "#FFFFFF",
+          "desc": "Važi za dan u kom je karta uplaćena",
+          "forZones": [
+            473
+          ],
+          "interval": 1440,
+          "price": 300
+        }
+      ],
+      "Zones": [
+        {
+          "id": 471,
+          "price": 70,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FFC100",
+          "name": "Ekstra Zona",
+          "description": "Maksimalno vreme zadržavanja je 120 minuta. Naplata svakog dana u nedelji.",
+          "restriction": true,
+          "restriction_time": 120,
+          "sms_number": "9630",
+          "coordinates": [],
+          "parking_hours": {
+            "weekday": {
+              "start": 7,
+              "end": 21
+            },
+            "saturday": {
+              "start": 7,
+              "end": 21
+            },
+            "sunday": {
+              "start": 7,
+              "end": 21
+            }
+          }
+        },
+        {
+          "id": 472,
+          "price": 60,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FF3932",
+          "name": "1. Zona",
+          "description": "Maksimalno vreme zadržavanja je 180 minuta. Naplata svakog dana u nedelji.",
+          "restriction": true,
+          "restriction_time": 180,
+          "sms_number": "9631",
+          "coordinates": [],
+          "parking_hours": {
+            "weekday": {
+              "start": 7,
+              "end": 21
+            },
+            "saturday": {
+              "start": 7,
+              "end": 21
+            },
+            "sunday": {
+              "start": 7,
+              "end": 21
+            }
+          }
+        },{
+          "id": 473,
+          "price": 60,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#557C55",
+          "name": "2. Zona",
+          "description": "Bez vremenskog ograničenja. Naplata svakog dana u nedelji.",
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "9632",
+          "coordinates": [],
+          "parking_hours": {
+            "weekday": {
+              "start": 7,
+              "end": 21
+            },
+            "saturday": {
+              "start": 7,
+              "end": 21
+            },
+            "sunday": {
+              "start": 7,
+              "end": 21
+            }
+          }
+        }
+      ]
     }
   ]
 }
