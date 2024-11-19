@@ -1,5 +1,5 @@
 {
-  "version": 1.58,
+  "version": 1.59,
   "cities": [
     {
       "city_name": "Čačak",
@@ -2488,13 +2488,13 @@
             11
           ],
           "interval": 1440,
-          "price": 190
+          "price": 235
         }
       ],
       "Zones": [
         {
           "id": 10,
-          "price": 46,
+          "price": 58,
           "value": 60,
           "per_hour": true,
           "currency": "RSD",
@@ -2522,7 +2522,7 @@
         },
         {
           "id": 11,
-          "price": 33,
+          "price": 41,
           "value": 60,
           "per_hour": true,
           "currency": "RSD",
