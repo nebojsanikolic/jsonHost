@@ -1,5 +1,5 @@
 {
-  "version": 1.60,
+  "version": 1.61,
   "cities": [
     {
       "city_name": "Čačak",
@@ -350,8 +350,20 @@
                 "longitude": 20.3434096
               },
               {
-                "latitude": 43.8854911,
-                "longitude": 20.3489793
+                "latitude": 43.88587,
+                "longitude": 20.3477713
+              },
+              {
+                "latitude": 43.8853326,
+                "longitude": 20.3474873
+              },
+              {
+                "latitude": 43.8852475,
+                "longitude": 20.3476811
+              },
+              {
+                "latitude": 43.8857811,
+                "longitude": 20.3480036
               },
               {
                 "latitude": 43.8838246,
@@ -362,8 +374,20 @@
                 "longitude": 20.3546856
               },
               {
-                "latitude": 43.8857212,
-                "longitude": 20.3490665
+                "latitude": 43.8859739,
+                "longitude": 20.3481351
+              },
+              {
+                "latitude": 43.8866809,
+                "longitude": 20.3485904
+              },
+              {
+                "latitude": 43.8867805,
+                "longitude": 20.3483638
+              },
+              {
+                "latitude": 43.8860682,
+                "longitude": 20.3478849
               },
               {
                 "latitude": 43.8875131,
@@ -33083,7 +33107,8 @@
           "restriction": false,
           "restriction_time": 0,
           "sms_number": "8223",
-          "coordinates": [[
+          "coordinates": [
+            [
               {
                 "latitude": 44.9700261,
                 "longitude": 19.6105206
@@ -33618,7 +33643,8 @@
                 "latitude": 44.9726826,
                 "longitude": 19.6051401
               }
-            ]],
+            ]
+          ],
           "parking_hours": {
             "weekday": {
               "start": 7,
@@ -33646,9 +33672,7 @@
           "restriction": false,
           "restriction_time": 0,
           "sms_number": "8227",
-          "coordinates": [
-            
-          ],
+          "coordinates": [],
           "parking_hours": {
             "weekday": {
               "start": 8,
@@ -33665,7 +33689,8 @@
           }
         }
       ]
-    },{
+    },
+    {
       "city_name": "Vrnjačka Banja",
       "city_short_name": "VB",
       "city_coordinate": {
@@ -33685,7 +33710,8 @@
           ],
           "interval": 1440,
           "price": 300
-        },{
+        },
+        {
           "parking_zone_id": 4702,
           "sms_number": "9634",
           "name": "Dnevna Karta",
@@ -33754,7 +33780,8 @@
               "end": 21
             }
           }
-        },{
+        },
+        {
           "id": 473,
           "price": 60,
           "value": 60,
