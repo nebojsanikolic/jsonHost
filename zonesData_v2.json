@@ -1,5 +1,5 @@
 {
-  "version": 1.59,
+  "version": 1.60,
   "cities": [
     {
       "city_name": "Čačak",
@@ -33083,36 +33083,7 @@
           "restriction": false,
           "restriction_time": 0,
           "sms_number": "8223",
-          "coordinates": [],
-          "parking_hours": {
-            "weekday": {
-              "start": 7,
-              "end": 15
-            },
-            "saturday": {
-              "start": null,
-              "end": null
-            },
-            "sunday": {
-              "start": null,
-              "end": null
-            }
-          }
-        },
-        {
-          "id": 464,
-          "price": 60,
-          "value": 60,
-          "per_hour": true,
-          "currency": "RSD",
-          "color": "#007AFF",
-          "name": "Zona IV",
-          "description": "Bez vremenskog ograničenja. Naplata svakog dana u nedelji.",
-          "restriction": false,
-          "restriction_time": 0,
-          "sms_number": "8227",
-          "coordinates": [
-            [
+          "coordinates": [[
               {
                 "latitude": 44.9700261,
                 "longitude": 19.6105206
@@ -33647,7 +33618,36 @@
                 "latitude": 44.9726826,
                 "longitude": 19.6051401
               }
-            ]
+            ]],
+          "parking_hours": {
+            "weekday": {
+              "start": 7,
+              "end": 15
+            },
+            "saturday": {
+              "start": null,
+              "end": null
+            },
+            "sunday": {
+              "start": null,
+              "end": null
+            }
+          }
+        },
+        {
+          "id": 464,
+          "price": 60,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#007AFF",
+          "name": "Zona IV",
+          "description": "Bez vremenskog ograničenja. Naplata svakog dana u nedelji.",
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "8227",
+          "coordinates": [
+            
           ],
           "parking_hours": {
             "weekday": {
