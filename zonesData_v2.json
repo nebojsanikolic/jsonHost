@@ -1,5 +1,5 @@
 {
-  "version": 1.61,
+  "version": 1.62,
   "cities": [
     {
       "city_name": "Čačak",
@@ -24323,8 +24323,8 @@
       "city_short_name": "KŽ",
       "city_id": 30,
       "city_coordinate": {
-        "latitude": 45.8337282,
-        "longitude": 20.4638709
+        "latitude": 43.5675,
+        "longitude": 22.2581
       },
       "daily_tickets": [
         {
