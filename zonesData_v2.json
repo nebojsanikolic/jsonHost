@@ -1,5 +1,5 @@
 {
-  "version": 1.62,
+  "version": 1.63,
   "cities": [
     {
       "city_name": "Čačak",
@@ -4973,7 +4973,7 @@
           "name": "Zona 0",
           "description": "Uži centar grada NVRD Drugi sat - 140 RSD",
           "restriction": true,
-          "restriction_time": 60,
+          "restriction_time": 120,
           "sms_number": "8340",
           "coordinates": [
             [
