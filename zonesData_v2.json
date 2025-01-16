@@ -1,5 +1,5 @@
 {
-  "version": 1.64,
+  "version": 1.65,
   "cities": [
     {
       "city_name": "Čačak",
@@ -6221,6 +6221,184 @@
           "restriction_time": 0,
           "sms_number": "8341",
           "coordinates": [
+            [
+              {
+                "latitude": 44.020802,
+                "longitude": 20.9048168
+              },
+              {
+                "latitude": 44.0206111,
+                "longitude": 20.9056805
+              },
+              {
+                "latitude": 44.0194924,
+                "longitude": 20.9051306
+              },
+              {
+                "latitude": 44.018825,
+                "longitude": 20.9046425
+              },
+              {
+                "latitude": 44.01869,
+                "longitude": 20.9046157
+              },
+              {
+                "latitude": 44.016873,
+                "longitude": 20.9071101
+              },
+              {
+                "latitude": 44.0170659,
+                "longitude": 20.9073461
+              },
+              {
+                "latitude": 44.0187247,
+                "longitude": 20.9048731
+              },
+              {
+                "latitude": 44.0192706,
+                "longitude": 20.9052487
+              },
+              {
+                "latitude": 44.0199476,
+                "longitude": 20.9055893
+              },
+              {
+                "latitude": 44.0208715,
+                "longitude": 20.9060185
+              },
+              {
+                "latitude": 44.0204664,
+                "longitude": 20.9077565
+              },
+              {
+                "latitude": 44.0199071,
+                "longitude": 20.9075178
+              },
+              {
+                "latitude": 44.0203063,
+                "longitude": 20.905761
+              },
+              {
+                "latitude": 44.0201617,
+                "longitude": 20.9056912
+              },
+              {
+                "latitude": 44.0197508,
+                "longitude": 20.907601
+              },
+              {
+                "latitude": 44.0206034,
+                "longitude": 20.9079979
+              },
+              {
+                "latitude": 44.021099,
+                "longitude": 20.9059434
+              },
+              {
+                "latitude": 44.0207384,
+                "longitude": 20.9057878
+              },
+              {
+                "latitude": 44.0209544,
+                "longitude": 20.9048946
+              },
+              {
+                "latitude": 44.020802,
+                "longitude": 20.9048168
+              }
+            ],
+            [
+              {
+                "latitude": 44.0195624,
+                "longitude": 20.9021408
+              },
+              {
+                "latitude": 44.0193656,
+                "longitude": 20.9019986
+              },
+              {
+                "latitude": 44.0191033,
+                "longitude": 20.9027658
+              },
+              {
+                "latitude": 44.0191766,
+                "longitude": 20.9029857
+              },
+              {
+                "latitude": 44.0192287,
+                "longitude": 20.9035382
+              },
+              {
+                "latitude": 44.0193656,
+                "longitude": 20.903675
+              },
+              {
+                "latitude": 44.0197418,
+                "longitude": 20.9035007
+              },
+              {
+                "latitude": 44.0208412,
+                "longitude": 20.9044395
+              },
+              {
+                "latitude": 44.0212288,
+                "longitude": 20.9045521
+              },
+              {
+                "latitude": 44.0209241,
+                "longitude": 20.9058127
+              },
+              {
+                "latitude": 44.0211112,
+                "longitude": 20.9059039
+              },
+              {
+                "latitude": 44.0217515,
+                "longitude": 20.9029991
+              },
+              {
+                "latitude": 44.0211343,
+                "longitude": 20.9026987
+              },
+              {
+                "latitude": 44.0206907,
+                "longitude": 20.9038494
+              },
+              {
+                "latitude": 44.0197225,
+                "longitude": 20.9031144
+              },
+              {
+                "latitude": 44.0193213,
+                "longitude": 20.9028543
+              },
+              {
+                "latitude": 44.0195624,
+                "longitude": 20.9021408
+              }
+            ],
+            [
+              {
+                "latitude": 44.0184879,
+                "longitude": 20.9004299
+              },
+              {
+                "latitude": 44.0183413,
+                "longitude": 20.9003333
+              },
+              {
+                "latitude": 44.0156332,
+                "longitude": 20.906143
+              },
+              {
+                "latitude": 44.0157489,
+                "longitude": 20.9063844
+              },
+              {
+                "latitude": 44.0184879,
+                "longitude": 20.9004299
+              }
+            ],
             [
               {
                 "latitude": 44.0084752,
