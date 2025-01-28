@@ -1,5 +1,5 @@
 {
-  "version": 1.66,
+  "version": 1.67,
   "cities": [
     {
       "city_name": "Čačak",
@@ -33988,7 +33988,8 @@
           }
         }
       ]
-    },{
+    },
+    {
       "city_name": "Vrbas",
       "city_short_name": "VS",
       "city_coordinate": {
@@ -34060,6 +34061,223 @@
             "saturday": {
               "start": 7,
               "end": 14
+            },
+            "sunday": {
+              "start": null,
+              "end": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "city_name": "Šid",
+      "city_short_name": "ŠI",
+      "city_coordinate": {
+        "latitude": 45.1264,
+        "longitude": 19.2291
+      },
+      "city_id": 49,
+      "daily_tickets": [
+        {
+          "parking_zone_id": 4901,
+          "sms_number": "8623",
+          "name": "Dnevna Karta",
+          "color": "#FFFFFF",
+          "desc": "Važi za ceo dan kada je uplaćena karta za obe zone.",
+          "forZones": [
+            491,
+            492
+          ],
+          "interval": 1440,
+          "price": 265
+        }
+      ],
+      "Zones": [
+        {
+          "id": 491,
+          "price": 58,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FF3932",
+          "name": "Crvena zona",
+          "description": "Maksimalno vreme zadržavanja je 120 minuta.",
+          "restriction": true,
+          "restriction_time": 120,
+          "sms_number": "8621",
+          "coordinates": [],
+          "parking_hours": {
+            "weekday": {
+              "start": 7,
+              "end": 19
+            },
+            "saturday": {
+              "start": 7,
+              "end": 14
+            },
+            "sunday": {
+              "start": null,
+              "end": null
+            }
+          }
+        },
+        {
+          "id": 492,
+          "price": 43,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#007AFF",
+          "name": "Plava zona",
+          "description": "Bez vremenskog ograničenja.",
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "8622",
+          "coordinates": [],
+          "parking_hours": {
+            "weekday": {
+              "start": 7,
+              "end": 19
+            },
+            "saturday": {
+              "start": 7,
+              "end": 14
+            },
+            "sunday": {
+              "start": null,
+              "end": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "city_name": "Sremski Karlovci",
+      "city_short_name": "ŠI",
+      "city_coordinate": {
+        "latitude": 45.2025,
+        "longitude": 19.9336
+      },
+      "city_id": 50,
+      "daily_tickets": [
+        {
+          "parking_zone_id": 5001,
+          "sms_number": "8833",
+          "name": "Dnevna Karta",
+          "color": "#FFFFFF",
+          "desc": "Važi za ceo dan kada je uplaćena karta",
+          "forZones": [
+            501
+          ],
+          "interval": 1440,
+          "price": 200
+        }
+      ],
+      "Zones": [
+        {
+          "id": 501,
+          "price": 45,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#557C55",
+          "name": "Prva zona",
+          "description": "Bez vremenskog ograničenja.",
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "8831",
+          "coordinates": [],
+          "parking_hours": {
+            "weekday": {
+              "start": 8,
+              "end": 20
+            },
+            "saturday": {
+              "start": 8,
+              "end": 20
+            },
+            "sunday": {
+              "start": 8,
+              "end": 20
+            }
+          }
+        }
+      ]
+    },
+    {
+      "city_name": "Stara Pazova",
+      "city_short_name": "ST",
+      "city_coordinate": {
+        "latitude": 44.9846,
+        "longitude": 20.1588
+      },
+      "city_id": 51,
+      "daily_tickets": [
+        {
+          "parking_zone_id": 5101,
+          "sms_number": "8203",
+          "name": "Dnevna Karta",
+          "color": "#FFFFFF",
+          "desc": "Važi za ceo dan kada je uplaćena karta za obe zone",
+          "forZones": [
+            511,
+            512
+          ],
+          "interval": 1440,
+          "price": 100
+        }
+      ],
+      "Zones": [
+        {
+          "id": 511,
+          "price": 35,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#F9F6EE",
+          "name": "Bela zona",
+          "description": "Bez vremenskog ograničenja.",
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "8201",
+          "coordinates": [],
+          "parking_hours": {
+            "weekday": {
+              "start": 7,
+              "end": 15
+            },
+            "saturday": {
+              "start": null,
+              "end": null
+            },
+            "sunday": {
+              "start": null,
+              "end": null
+            }
+          }
+        },
+        {
+          "id": 512,
+          "price": 25,
+          "value": 60,
+          "per_hour": true,
+          "currency": "RSD",
+          "color": "#FF3932",
+          "name": "Crvena zona",
+          "description": "Bez vremenskog ograničenja.",
+          "restriction": false,
+          "restriction_time": 0,
+          "sms_number": "8202",
+          "coordinates": [],
+          "parking_hours": {
+            "weekday": {
+              "start": 7,
+              "end": 15
+            },
+            "saturday": {
+              "start": null,
+              "end": null
             },
             "sunday": {
               "start": null,
