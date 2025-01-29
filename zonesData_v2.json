@@ -1,5 +1,5 @@
 {
-  "version": 1.67,
+  "version": 1.68,
   "cities": [
     {
       "city_name": "Čačak",
@@ -2407,7 +2407,7 @@
           "description": "",
           "restriction": false,
           "restriction_time": 0,
-          "sms_number": "7321",
+          "sms_number": "7322",
           "coordinates": [
             [
               {
