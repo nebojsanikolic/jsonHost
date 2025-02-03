@@ -1,5 +1,5 @@
 {
-  "version": 1.69,
+  "version": 1.70,
   "cities": [
     {
       "city_name": "Čačak",
@@ -11213,6 +11213,28 @@
           "restriction_time": 120,
           "sms_number": "9119",
           "coordinates": [
+            [
+              {
+                "latitude": 44.8306097,
+                "longitude": 20.456384
+              },
+              {
+                "latitude": 44.8302711,
+                "longitude": 20.456333
+              },
+              {
+                "latitude": 44.830254,
+                "longitude": 20.4565825
+              },
+              {
+                "latitude": 44.830604,
+                "longitude": 20.4566227
+              },
+              {
+                "latitude": 44.8306097,
+                "longitude": 20.456384
+              }
+            ],
             [
               {
                 "longitude": 20.4145869,
@@ -34146,7 +34168,7 @@
     },
     {
       "city_name": "Sremski Karlovci",
-      "city_short_name": "ŠI",
+      "city_short_name": "NS",
       "city_coordinate": {
         "latitude": 45.2025,
         "longitude": 19.9336
