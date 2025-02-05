@@ -1,5 +1,5 @@
 {
-  "version": 1.70,
+  "version": 1.71,
   "cities": [
     {
       "city_name": "Čačak",
@@ -9600,7 +9600,7 @@
       "Zones": [
         {
           "id": 111,
-          "price": 100,
+          "price": 120,
           "value": 30,
           "per_hour": true,
           "currency": "RSD",
@@ -9703,13 +9703,13 @@
         },
         {
           "id": 112,
-          "price": 65,
+          "price": 80,
           "value": 60,
           "per_hour": true,
           "currency": "RSD",
           "color": "#FF0302",
           "name": "Prva zona",
-          "description": "Mogućnost produženog parkiranja od 30 minuta (100 dinara)",
+          "description": "Mogućnost produženog parkiranja od 30 minuta (120 dinara)",
           "restriction": true,
           "restriction_time": 90,
           "sms_number": "9111",
@@ -9870,7 +9870,7 @@
         },
         {
           "id": 113,
-          "price": 58,
+          "price": 65,
           "value": 60,
           "per_hour": true,
           "currency": "RSD",
@@ -10237,13 +10237,13 @@
         },
         {
           "id": 113,
-          "price": 50,
+          "price": 55,
           "value": 60,
           "per_hour": true,
           "currency": "RSD",
           "color": "#36A557",
           "name": "Treća zona",
-          "description": "Mogućnost produženog parkiranja od 60 minuta (140 dinara)",
+          "description": "Mogućnost produženog parkiranja od 60 minuta (160 dinara)",
           "restriction": true,
           "restriction_time": 120,
           "sms_number": "9113",
@@ -11202,13 +11202,13 @@
         },
         {
           "id": 114,
-          "price": 40,
+          "price": 45,
           "value": 60,
           "per_hour": true,
           "currency": "RSD",
           "color": "3081D0",
           "name": "Opšta zona",
-          "description": "Mogućnost produženog parkiranja od 60 minuta (140 dinara)",
+          "description": "Na opštim parkiralištima izvan zoniranog područja, tzv. plavoj zoni (45 dinara sat), vozači mogu da parkiraju automobile bez vremenskog ograničenja.",
           "restriction": true,
           "restriction_time": 120,
           "sms_number": "9119",
