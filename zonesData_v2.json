@@ -1,5 +1,5 @@
 {
-    "version": 1.72,
+    "version": 1.73,
     "cities": [
       {
         "city_name": "Čačak",
@@ -22018,7 +22018,7 @@
           },
           {
             "parking_zone_id": 1802,
-            "sms_number": "9173",
+            "sms_number": "7184",
             "name": "Zelena zona - dnevna karta",
             "color": "#1A5D1A",
             "desc": "Važi do kraja naplate u danu kada je plaćena",
