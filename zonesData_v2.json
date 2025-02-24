@@ -1,5 +1,5 @@
 {
-    "version": 1.73,
+    "version": 1.74,
     "cities": [
       {
         "city_name": "Čačak",
@@ -23859,8 +23859,8 @@
         "city_name": "Inđija",
         "city_short_name": "IN",
         "city_coordinate": {
-          "latitude": 44.6529,
-          "longitude": 21.6322
+          "latitude": 45.0478,
+          "longitude": 20.0806
         },
         "city_id": 26,
         "daily_tickets": [],
