@@ -1,5 +1,5 @@
 {
-    "version": 1.74,
+    "version": 1.75,
     "cities": [
       {
         "city_name": "Čačak",
@@ -9594,7 +9594,7 @@
               114
             ],
             "interval": 1440,
-            "price": 200
+            "price": 400
           }
         ],
         "Zones": [
