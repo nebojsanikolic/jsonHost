@@ -1,5 +1,5 @@
 {
-  "version": 1.76,
+  "version": 1.77,
   "cities": [
     {
       "city_name": "Čačak",
@@ -20458,6 +20458,14 @@
                 "longitude": 19.6926058
               },
               {
+                "latitude": 44.7587274,
+                "longitude": 19.6926112
+              },
+              {
+                "latitude": 44.7580007,
+                "longitude": 19.6934857
+              },
+              {
                 "latitude": 44.7574188,
                 "longitude": 19.6944782
               },
@@ -21187,6 +21195,40 @@
               {
                 "latitude": 44.7510987,
                 "longitude": 19.7020999
+              }
+            ],
+            [
+              {
+                "latitude": 44.7526189,
+                "longitude": 19.6870678
+              },
+              {
+                "latitude": 44.7524856,
+                "longitude": 19.6869605
+              },
+              {
+                "latitude": 44.7518494,
+                "longitude": 19.6882908
+              },
+              {
+                "latitude": 44.7494416,
+                "longitude": 19.6855496
+              },
+              {
+                "latitude": 44.7493807,
+                "longitude": 19.6858554
+              },
+              {
+                "latitude": 44.7517427,
+                "longitude": 19.6885483
+              },
+              {
+                "latitude": 44.7519789,
+                "longitude": 19.6884089
+              },
+              {
+                "latitude": 44.7526189,
+                "longitude": 19.6870678
               }
             ]
           ],
