@@ -1,5 +1,5 @@
 {
-  "version": 1.77,
+  "version": 1.78,
   "cities": [
     {
       "city_name": "Čačak",
@@ -10236,7 +10236,7 @@
           }
         },
         {
-          "id": 113,
+          "id": 115,
           "price": 55,
           "value": 60,
           "per_hour": true,
