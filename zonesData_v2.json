@@ -25937,34 +25937,6 @@
       ],
       "Zones": [
         {
-          "id": 321,
-          "price": 70,
-          "value": 60,
-          "per_hour": true,
-          "currency": "RSD",
-          "color": "#5D3FD3",
-          "name": "Ekstra zona",
-          "description": "Maksimalno 120 minuta.",
-          "restriction": true,
-          "restriction_time": 180,
-          "sms_number": "9289",
-          "coordinates": [],
-          "parking_hours": {
-            "weekday": {
-              "start": 7,
-              "end": 21
-            },
-            "saturday": {
-              "start": 7,
-              "end": 14
-            },
-            "sunday": {
-              "start": null,
-              "end": null
-            }
-          }
-        },
-        {
           "id": 322,
           "price": 51.75,
           "value": 60,
