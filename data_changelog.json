@@ -6,7 +6,7 @@
       "changelog_title": "Novi podaci su dostupni!",
       "changelog_description": "Ažurirane su lokacije zona u gradovima :",
       "changelog_affected_city_ids": [
-        12
+        12,1
       ]
     }
 ]
