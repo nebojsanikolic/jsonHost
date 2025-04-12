@@ -1,0 +1,12 @@
+[
+    {
+      "version": 1.84,
+      "priority": 1,
+      "force_update": false,
+      "changelog_title": "Novi podaci su dostupni!",
+      "changelog_description": "Ažurirane su lokacije zona u gradovima :",
+      "changelog_affected_city_ids": [
+        12
+      ]
+    }
+]
