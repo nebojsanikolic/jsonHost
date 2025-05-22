@@ -1,5 +1,5 @@
 {
-  "version": 1.87,
+  "version": 1.88,
   "cities": [
     {
       "city_name": "Čačak",
@@ -26740,6 +26740,44 @@
           "restriction_time": 0,
           "sms_number": "8212",
           "coordinates": [
+            [
+              {
+                "latitude": 19.85028058223,
+                "longitude": 45.26373170838
+              },
+              {
+                "latitude": 19.85027655892,
+                "longitude": 45.26382562924
+              },
+              {
+                "latitude": 19.85037182134,
+                "longitude": 45.26384095020
+              },
+              {
+                "latitude": 19.85035970673,
+                "longitude": 45.26393418127
+              },
+              {
+                "latitude": 19.84933107957,
+                "longitude": 45.26388981674
+              },
+              {
+                "latitude": 19.84927609429,
+                "longitude": 45.26382279793
+              },
+              {
+                "latitude": 19.84928279981,
+                "longitude": 45.26372840510
+              },
+              {
+                "latitude": 19.84938606486,
+                "longitude": 45.26366799360
+              },
+              {
+                "latitude": 19.85028058223,
+                "longitude": 45.26373170838
+              }
+            ],
             [
               {
                 "latitude": 45.25814101344,
