@@ -1,5 +1,5 @@
 {
-  "version": 1.90,
+  "version": 1.91,
   "cities": [
     {
       "city_name": "Ćićevac",
@@ -14630,7 +14630,7 @@
         {
           "parking_zone_id": 1201,
           "sms_number": "8288",
-          "name": "Celodnevna karta",
+          "name": "Celodnevna karta: Sajam",
           "color": "#FFFFFF",
           "desc": "Važi do isteka naplate u danu kada je uplaćena.",
           "forZones": [],
