@@ -1,5 +1,5 @@
 {
   "version": 2.50,
   "force": true,
-  "minAndroidVersion": "1.4.0"
+  "minAndroidVersion": "1.1.3"
 }
