@@ -1,0 +1,819 @@
+{
+  "version": "1.0",
+  "parking_companies": [
+    {
+      "city": "Beograd",
+      "company_name": "JKP Parking servis Beograd",
+      "address": {
+        "street": "Prekonoška",
+        "house_number": "28V",
+        "postal_code": "11077",
+        "pak": "193102",
+        "city": "Beograd",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [
+        {
+          "street": "Takovska",
+          "house_number": "31",
+          "postal_code": "11103",
+          "pak": "106412",
+          "city": "Beograd",
+          "country": "Srbija"
+        },
+        {
+          "street": "Mileševska",
+          "house_number": "51",
+          "postal_code": "11118",
+          "pak": "123104",
+          "city": "Beograd",
+          "country": "Srbija"
+        },
+        {
+          "street": "Milutina Milankovića",
+          "house_number": "134G",
+          "postal_code": "11077",
+          "pak": "191651",
+          "city": "Beograd",
+          "country": "Srbija"
+        }
+      ],
+      "working_hours": {
+        "monday": "07:00 - 21:00",
+        "tuesday": "07:00 - 21:00",
+        "wednesday": "07:00 - 21:00",
+        "thursday": "07:00 - 21:00",
+        "friday": "07:00 - 21:00",
+        "saturday": "07:00 - 14:00",
+        "sunday": ""
+      },
+      "phone_number": "0800 110 011",
+      "auxiliary_phone_number": "",
+      "email": "info@parking-servis.co.rs",
+      "website": "https://www.parking-servis.co.rs/"
+    },
+    {
+      "city": "Novi Sad",
+      "company_name": "JKP Parking servis Novi Sad",
+      "address": {
+        "street": "Filipa Višnjića",
+        "house_number": "47",
+        "postal_code": "21111",
+        "pak": "400732",
+        "city": "Novi Sad",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "08:00 - 20:00",
+        "tuesday": "08:00 - 20:00",
+        "wednesday": "08:00 - 20:00",
+        "thursday": "08:00 - 20:00",
+        "friday": "08:00 - 20:00",
+        "saturday": "08:00 - 20:00",
+        "sunday": "09:00 - 13:00"
+      },
+      "phone_number": "0800 021 104",
+      "auxiliary_phone_number": "+381 21 472 4140",
+      "email": "office@parkingns.rs",
+      "website": "https://www.parkingns.rs/"
+    },
+    {
+      "city": "Niš",
+      "company_name": "JKP Parking servis Niš",
+      "address": {
+        "street": "Borivoja Gojkovića",
+        "house_number": "7",
+        "postal_code": "18105",
+        "pak": "700139",
+        "city": "Niš",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:00 - 20:30",
+        "tuesday": "07:00 - 20:30",
+        "wednesday": "07:00 - 20:30",
+        "thursday": "07:00 - 20:30",
+        "friday": "07:00 - 20:30",
+        "saturday": "07:00 - 14:00",
+        "sunday": ""
+      },
+      "phone_number": "+381 18 517 778",
+      "auxiliary_phone_number": "+381 18 517-556",
+      "email": "info@nisparking.rs",
+      "website": "https://www.nisparking.rs/"
+    },
+    {
+      "city": "Kragujevac",
+      "company_name": "JKP Šumadija Kragujevac",
+      "address": {
+        "street": "Industrijska",
+        "house_number": "12",
+        "postal_code": "34203",
+        "pak": "554824",
+        "city": "Kragujevac",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:00 - 21:00",
+        "tuesday": "07:00 - 21:00",
+        "wednesday": "07:00 - 21:00",
+        "thursday": "07:00 - 21:00",
+        "friday": "07:00 - 21:00",
+        "saturday": "07:00 - 14:00",
+        "sunday": ""
+      },
+      "phone_number": "0800 350 034",
+      "auxiliary_phone_number": "+381 34 335 482",
+      "email": "info@jkpsumadija.rs",
+      "website": "https://www.jkpsumadija.rs/"
+    },
+    {
+      "city": "Subotica",
+      "company_name": "JKP Parking Subotica",
+      "address": {
+        "street": "Đure Đakovića",
+        "house_number": "23",
+        "postal_code": "24000",
+        "pak": "450762",
+        "city": "Subotica",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:00 - 17:00",
+        "tuesday": "07:00 - 17:00",
+        "wednesday": "07:00 - 17:00",
+        "thursday": "07:00 - 17:00",
+        "friday": "07:00 - 17:00",
+        "saturday": "07:00 - 14:00",
+        "sunday": ""
+      },
+      "phone_number": "0800 333 024",
+      "auxiliary_phone_number": "+381 24 694 200",
+      "email": "office@suparking.rs",
+      "website": "https://www.suparking.rs/"
+    },
+    {
+      "city": "Aleksandrovac",
+      "company_name": "JKSP Aleksandrovac",
+      "address": {
+        "street": "10. avgust",
+        "house_number": "46",
+        "postal_code": "37230",
+        "pak": "660117",
+        "city": "Aleksandrovac",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 37 751 696",
+      "auxiliary_phone_number": "",
+      "email": "jksp@jksp-aleksandrovac.com",
+      "website": "https://www.jksp-aleksandrovac.com/"
+    },
+    {
+      "city": "Aleksinac",
+      "company_name": "JKP Komunalne usluge Aleksinac",
+      "address": {
+        "street": "Knjaza Miloša",
+        "house_number": "29",
+        "postal_code": "18220",
+        "pak": "683305",
+        "city": "Aleksinac",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 18 807 667",
+      "auxiliary_phone_number": "",
+      "email": "parking@jkpkomusl.rs",
+      "website": "https://www.jkpkomusl.rs/"
+    },
+    {
+      "city": "Aranđelovac",
+      "company_name": "JKP Zelenilo Aranđelovac",
+      "address": {
+        "street": "Venac Slobode",
+        "house_number": "10",
+        "postal_code": "34300",
+        "pak": "540303",
+        "city": "Aranđelovac",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:00 - 15:00",
+        "tuesday": "07:00 - 15:00",
+        "wednesday": "07:00 - 15:00",
+        "thursday": "07:00 - 15:00",
+        "friday": "07:00 - 15:00",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 253 201",
+      "auxiliary_phone_number": "+381 34 715 667",
+      "email": "office@jkpzelenilo.rs",
+      "website": "https://www.jkpzelenilo.rs/"
+    },
+    {
+      "city": "Bačka Palanka",
+      "company_name": "JKP Komunalprojekt Bačka Palanka",
+      "address": {
+        "street": "Trg bratstva jedinstva",
+        "house_number": "40",
+        "postal_code": "21400",
+        "pak": "392402",
+        "city": "Bačka Palanka",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:00 - 15:00",
+        "tuesday": "07:00 - 15:00",
+        "wednesday": "07:00 - 15:00",
+        "thursday": "07:00 - 15:00",
+        "friday": "07:00 - 15:00",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 21 755 0 113",
+      "auxiliary_phone_number": "",
+      "email": "info@komunalprojekt.rs",
+      "website": "https://www.komunalprojekt.rs/"
+    },
+    {
+      "city": "Bajina Bašta",
+      "company_name": "JP BB Term",
+      "address": {
+        "street": "Bajina Bašta",
+        "house_number": "44",
+        "postal_code": "31250",
+        "pak": "506705",
+        "city": "Bajina Bašta",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:00 - 15:00",
+        "tuesday": "07:00 - 15:00",
+        "wednesday": "07:00 - 15:00",
+        "thursday": "07:00 - 15:00",
+        "friday": "07:00 - 15:00",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 31 861 545",
+      "auxiliary_phone_number": "",
+      "email": "jp.bbterm@gmail.com",
+      "website": "https://www.bbterm.rs/"
+    },
+    {
+      "city": "Batočina",
+      "company_name": "JP Lepenica Batočina",
+      "address": {
+        "street": "Kralja Petra I",
+        "house_number": "21",
+        "postal_code": "34227",
+        "pak": "546105",
+        "city": "Batočina",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:00 - 15:00",
+        "tuesday": "07:00 - 15:00",
+        "wednesday": "07:00 - 15:00",
+        "thursday": "07:00 - 15:00",
+        "friday": "07:00 - 15:00",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 34 6841 100",
+      "auxiliary_phone_number": "",
+      "email": "lepenicabatocina@hotmail.com",
+      "website": "https://www.jplepenicabatocina.rs/"
+    },
+    {
+      "city": "Bečej",
+      "company_name": "JP Komunalac Bečej",
+      "address": {
+        "street": "Dimitrija - Mita Milovanova",
+        "house_number": "5",
+        "postal_code": "21220",
+        "pak": "380170",
+        "city": "Bečej",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:00 - 15:00",
+        "tuesday": "07:00 - 15:00",
+        "wednesday": "07:00 - 15:00",
+        "thursday": "07:00 - 15:00",
+        "friday": "07:00 - 15:00",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 007 006",
+      "auxiliary_phone_number": "+381 21 6911 760",
+      "email": "komunbcj@gmail.com",
+      "website": "https://www.komunalacbecej.com/"
+    },
+    {
+      "city": "Bor",
+      "company_name": "JKP Bor",
+      "address": {
+        "street": "Nikole Pašića",
+        "house_number": "14",
+        "postal_code": "19210",
+        "pak": "601058",
+        "city": "Bor",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "10:00 - 12:00;14:00 - 16:00",
+        "tuesday": "10:00 - 12:00;14:00 - 16:00",
+        "wednesday": "10:00 - 12:00;14:00 - 16:00",
+        "thursday": "10:00 - 12:00;14:00 - 16:00",
+        "friday": "10:00 - 12:00;14:00 - 16:00",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 030 031",
+      "auxiliary_phone_number": "+381 30 423 188",
+      "email": "jpbor@mts.rs",
+      "website": "http://www.jpbor.rs/"
+    },
+    {
+      "city": "Brus",
+      "company_name": "JKP Rasina Brus",
+      "address": {
+        "street": "Kralja Petra I",
+        "house_number": "8A",
+        "postal_code": "37220",
+        "pak": "663264",
+        "city": "Brus",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:00 - 15:00",
+        "tuesday": "07:00 - 15:00",
+        "wednesday": "07:00 - 15:00",
+        "thursday": "07:00 - 15:00",
+        "friday": "07:00 - 15:00",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 353 707",
+      "auxiliary_phone_number": "+381 37 3825 486",
+      "email": "jkp.rasina@gmail.com",
+      "website": "https://www.jkprasina.co.rs/"
+    },
+    {
+      "city": "Brzeće",
+      "company_name": "JKP Rasina Brus",
+      "address": {
+        "street": "Kralja Petra I",
+        "house_number": "8A",
+        "postal_code": "37220",
+        "pak": "663264",
+        "city": "Brus",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:00 - 15:00",
+        "tuesday": "07:00 - 15:00",
+        "wednesday": "07:00 - 15:00",
+        "thursday": "07:00 - 15:00",
+        "friday": "07:00 - 15:00",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 353 707",
+      "auxiliary_phone_number": "+381 37 3825 486",
+      "email": "jkp.rasina@gmail.com",
+      "website": "https://www.jkprasina.co.rs/"
+    },
+    {
+      "city": "Bujanovac",
+      "company_name": "JKP Parking servis Bujanovac",
+      "address": {
+        "street": "Trg Karađorđa Petrovića",
+        "house_number": "1",
+        "postal_code": "17520",
+        "pak": "634211",
+        "city": "Bujanovac",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 60 4409 341",
+      "auxiliary_phone_number": "",
+      "email": "parkingsmsbujanovac@gmail.com",
+      "website": ""
+    },
+    {
+      "city": "Čačak",
+      "company_name": "JKP Parking servis Čačak",
+      "address": {
+        "street": "Cara Lazara",
+        "house_number": "51",
+        "postal_code": "32102",
+        "pak": "521637",
+        "city": "Čačak",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 300 401",
+      "auxiliary_phone_number": "+381 32 5376 870",
+      "email": "parkingserviscacak@mts.rs",
+      "website": "https://www.parkingcacak.co.rs/"
+    },
+    {
+      "city": "Ćićevac",
+      "company_name": "JP Putevi Ćićevac",
+      "address": {
+        "street": "Karađorđeva",
+        "house_number": "106",
+        "postal_code": "37210",
+        "pak": "669001",
+        "city": "Ćićevac",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 37 811 804",
+      "auxiliary_phone_number": "+381 37 811 260",
+      "email": "jpputevicicevac@gmail.com",
+      "website": ""
+    },
+    {
+      "city": "Ćuprija",
+      "company_name": "JKP Ravno 2014",
+      "address": {
+        "street": "Grobljanska",
+        "house_number": "11",
+        "postal_code": "35230",
+        "pak": "594265",
+        "city": "Ćuprija",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 35 8150 449",
+      "auxiliary_phone_number": "+381 35 8150 078",
+      "email": "info@ravno2014.cuprija.rs",
+      "website": "https://ravno2014.cuprija.rs/"
+    },
+    {
+      "city": "Despotovac",
+      "company_name": "KJP Stan Despotovac",
+      "address": {
+        "street": "Pavla Ilića",
+        "house_number": "1",
+        "postal_code": "35213",
+        "pak": "597110",
+        "city": "Despotovac",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 35 611 027",
+      "auxiliary_phone_number": "",
+      "email": "stan.finansije@gmail.com",
+      "website": "http://www.stan-despotovac.rs/"
+    },
+    {
+      "city": "Dimitrovgrad",
+      "company_name": "JP Komunalac Dimitrovgrad",
+      "address": {
+        "street": "Ive Andrića",
+        "house_number": "49",
+        "postal_code": "18320",
+        "pak": "625303",
+        "city": "Dimitrovgrad",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:00 - 15:00",
+        "tuesday": "07:00 - 15:00",
+        "wednesday": "07:00 - 15:00",
+        "thursday": "07:00 - 15:00",
+        "friday": "07:00 - 15:00",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 10 362 764",
+      "auxiliary_phone_number": "+381 10 362 178",
+      "email": "komdmg@mts.rs",
+      "website": "https://www.komdmg.org.rs/"
+    },
+    {
+      "city": "Gornji Milanovac",
+      "company_name": "JP za izgradnju opštine Gornji Milanovac",
+      "address": {
+        "street": "Narodnog heroja Tihomira Matijevića",
+        "house_number": "4",
+        "postal_code": "32300",
+        "pak": "526227",
+        "city": "Gornji Milanovac",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 32 713 001",
+      "auxiliary_phone_number": "",
+      "email": "info@jp-gm.org",
+      "website": "https://www.jp-gm.org/"
+    },
+    {
+      "city": "Inđija",
+      "company_name": "JP Inđija put Inđija",
+      "address": {
+        "street": "Dušana Jerkovića",
+        "house_number": "10",
+        "postal_code": "22320",
+        "pak": "346705",
+        "city": "Inđija",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 200 014",
+      "auxiliary_phone_number": "",
+      "email": "jpgz@indjija.rs",
+      "website": "https://www.indjijaput.net/"
+    },
+    {
+      "city": "Ivanjica",
+      "company_name": "JKP Ivanjica Ivanjica",
+      "address": {
+        "street": "Milinka Kušića",
+        "house_number": "61",
+        "postal_code": "32250",
+        "pak": "530109",
+        "city": "Ivanjica",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:00 - 15:00",
+        "tuesday": "07:00 - 15:00",
+        "wednesday": "07:00 - 15:00",
+        "thursday": "07:00 - 15:00",
+        "friday": "07:00 - 15:00",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 132 130",
+      "auxiliary_phone_number": "+381 64 8273 101",
+      "email": "office@jkpivanjica.rs",
+      "website": "https://www.jkpivanjica.rs/"
+    },
+    {
+      "city": "Jagodina",
+      "company_name": "Parking servis Jagodina doo",
+      "address": {
+        "street": "Kneginje Milice",
+        "house_number": "3",
+        "postal_code": "35000",
+        "pak": "580203",
+        "city": "Jagodina",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 800 995",
+      "auxiliary_phone_number": "+381 35 242 754",
+      "email": "office@parkingjagodina.co.rs",
+      "website": "https://www.parkingjagodina.co.rs/"
+    },
+    {
+      "city": "Kikinda",
+      "company_name": "JP Kikinda",
+      "address": {
+        "street": "Iđoški put",
+        "house_number": "4",
+        "postal_code": "23300",
+        "pak": "370625",
+        "city": "Kikinda",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [
+        {
+          "street": "Vojvode Putnika",
+          "house_number": "4",
+          "postal_code": "23300",
+          "pak": "370207",
+          "city": "Kikinda",
+          "country": "Srbija"
+        }
+      ],
+      "working_hours": {
+        "monday": "07:00 - 15:00",
+        "tuesday": "07:00 - 15:00",
+        "wednesday": "07:00 - 15:00",
+        "thursday": "07:00 - 15:00",
+        "friday": "07:00 - 15:00",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 333 660",
+      "auxiliary_phone_number": "",
+      "email": "info@jpkikinda.rs",
+      "website": "https://www.jpkikinda.rs/"
+    },
+    {
+      "city": "Knjaževac",
+      "company_name": "JKP Standard Knjaževac",
+      "address": {
+        "street": "Kaplarova",
+        "house_number": "8",
+        "postal_code": "19350",
+        "pak": "617016",
+        "city": "Knjaževac",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 019 009",
+      "auxiliary_phone_number": "+381 19 731 112",
+      "email": "jkp_standard@mts.rs",
+      "website": "https://www.jkp-standard.rs/"
+    },
+    {
+      "city": "Kopaonik",
+      "company_name": "JKP Putevi Raška",
+      "address": {
+        "street": "Nemanjina",
+        "house_number": "1",
+        "postal_code": "36350",
+        "pak": "569019",
+        "city": "Raška",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 36 736 671",
+      "auxiliary_phone_number": "",
+      "email": "puteviraska@gmail.com",
+      "website": "https://www.puteviraska.rs/"
+    },
+    {
+      "city": "Raška",
+      "company_name": "JKP Putevi Raška",
+      "address": {
+        "street": "Nemanjina",
+        "house_number": "1",
+        "postal_code": "36350",
+        "pak": "569019",
+        "city": "Raška",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 36 736 671",
+      "auxiliary_phone_number": "",
+      "email": "puteviraska@gmail.com",
+      "website": "https://www.puteviraska.rs/"
+    },
+    {
+      "city": "Ruma",
+      "company_name": "JP Komunalac Ruma",
+      "address": {
+        "street": "Jelenačka",
+        "house_number": "2",
+        "postal_code": "22400",
+        "pak": "330641",
+        "city": "Ruma",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 100 105",
+      "auxiliary_phone_number": "",
+      "email": "office@komunalacruma.co.rs",
+      "website": "https://komunalacruma.rs/"
+    }
+  ]
+}
