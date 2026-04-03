@@ -1,5 +1,6 @@
 {
-  "version": 2.51,
+  "version": 2.55,
   "force": true,
-  "minAndroidVersion": "1.1.3"
+  "minAndroidVersion": "1.1.3",
+  "miniOSVersion": "2.3.0"
 }
