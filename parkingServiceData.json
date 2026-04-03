@@ -1623,6 +1623,162 @@
       "website": "https://www.parkingsd.rs/"
     },
     {
+      "city": "Smederevska Palanka",
+      "company_name": "JKP Palanka 2020 Smederevska Palanka",
+      "address": {
+        "street": "Vojvode Stepe",
+        "house_number": "14",
+        "postal_code": "11420",
+        "pak": "235516",
+        "city": "Smederevska Palanka",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "08:00 - 13:00",
+        "tuesday": "08:00 - 13:00",
+        "wednesday": "08:00 - 13:00",
+        "thursday": "08:00 - 13:00",
+        "friday": "08:00 - 13:00",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 64 8873 121",
+      "auxiliary_phone_number": "",
+      "email": "parkingjkppalanka@gmail.com",
+      "website": "https://www.palanka2020.rs/"
+    },
+    {
+      "city": "Sokobanja",
+      "company_name": "JKP Napredak Sokobanja",
+      "address": {
+        "street": "Hajduk Veljkova",
+        "house_number": "22",
+        "postal_code": "18230",
+        "pak": "686485",
+        "city": "Sokobanja",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 018 801",
+      "auxiliary_phone_number": "+381 18 830 670",
+      "email": "reklamacije@jkpnapredak.rs",
+      "website": "https://www.jkp-napredak.rs/"
+    },
+    {
+      "city": "Sombor",
+      "company_name": "JKP Parking servis Sombor",
+      "address": {
+        "street": "Trg cara Lazara",
+        "house_number": "1",
+        "postal_code": "25101",
+        "pak": "420105",
+        "city": "Sombor",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 102 125",
+      "auxiliary_phone_number": "+381 25 423 000",
+      "email": "office@parkingsombor.co.rs",
+      "website": "https://www.parkingsombor.co.rs/"
+    },
+    {
+      "city": "Sremska Mitrovica",
+      "company_name": "JKP Komunalije Sremska Mitrovica",
+      "address": {
+        "street": "Stari šor",
+        "house_number": "114",
+        "postal_code": "22000",
+        "pak": "320101",
+        "city": "Sremska Mitrovica",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:00 - 14:00",
+        "tuesday": "07:00 - 14:00",
+        "wednesday": "07:00 - 14:00",
+        "thursday": "07:00 - 14:00",
+        "friday": "07:00 - 14:00",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 22 624 500",
+      "auxiliary_phone_number": "",
+      "email": "jkp.komunalije@gmail.com",
+      "website": "https://www.komunalije.co.rs/"
+    },
+    {
+      "city": "Sremski Karlovci",
+      "company_name": "JKP Belilo Sremski Karlovci",
+      "address": {
+        "street": "Trg Branka Radičevića",
+        "house_number": "1",
+        "postal_code": "21205",
+        "pak": "412304",
+        "city": "Sremski Karlovci",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 151 510",
+      "auxiliary_phone_number": "+381 21 6853 017",
+      "email": "parkingbelilo@gmail.com",
+      "website": "https://www.jkpbelilo.rs/"
+    },
+    {
+      "city": "Stara Pazova",
+      "company_name": "JKP Čistoća Stara Pazova",
+      "address": {
+        "street": "Zmaj Jovina",
+        "house_number": "9A",
+        "postal_code": "22300",
+        "pak": "340123",
+        "city": "Stara Pazova",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:00 - 15:00",
+        "tuesday": "07:00 - 15:00",
+        "wednesday": "07:00 - 15:00",
+        "thursday": "07:00 - 15:00",
+        "friday": "07:00 - 15:00",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 22 310 150",
+      "auxiliary_phone_number": "+381 22 317 205",
+      "email": "cistoca@vojvodinaonline.rs",
+      "website": "https://www.cistocasp.rs/"
+    },
+    {
       "city": "Subotica",
       "company_name": "JKP Parking Subotica",
       "address": {
@@ -1647,6 +1803,84 @@
       "auxiliary_phone_number": "+381 24 694 200",
       "email": "office@suparking.rs",
       "website": "https://www.suparking.rs/"
+    },
+    {
+      "city": "Subotica",
+      "company_name": "JKP Parking Subotica",
+      "address": {
+        "street": "Đure Đakovića",
+        "house_number": "23",
+        "postal_code": "24000",
+        "pak": "450762",
+        "city": "Subotica",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 333 024",
+      "auxiliary_phone_number": "+381 24 694 200",
+      "email": "office@suparking.rs",
+      "website": "https://www.suparking.rs/"
+    },
+    {
+      "city": "Surčin",
+      "company_name": "JKP Surčin",
+      "address": {
+        "street": "Maršala Tita",
+        "house_number": "2",
+        "postal_code": "11272",
+        "pak": "201605",
+        "city": "Dobanovci",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:30 - 15:30",
+        "tuesday": "07:30 - 15:30",
+        "wednesday": "07:30 - 15:30",
+        "thursday": "07:30 - 15:30",
+        "friday": "07:30 - 15:30",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 11 8467 006",
+      "auxiliary_phone_number": "+381 11 8467 021",
+      "email": "javnopreduzecesurcin@gmail.com",
+      "website": "https://www.jpsurcin.org.rs/"
+    },
+    {
+      "city": "Svilajnac",
+      "company_name": "KJP Morava Svilajnac",
+      "address": {
+        "street": "Svetog Save",
+        "house_number": "84",
+        "postal_code": "35210",
+        "pak": "586402",
+        "city": "Svilajnac",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:00 - 15:00",
+        "tuesday": "07:00 - 15:00",
+        "wednesday": "07:00 - 15:00",
+        "thursday": "07:00 - 15:00",
+        "friday": "07:00 - 15:00",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 35 323 280",
+      "auxiliary_phone_number": "+381 35 312 250",
+      "email": "parkingservis@kjpmorava.rs",
+      "website": "https://www.kjpmorava.rs/"
     },
     {
       "city": "Šabac",
@@ -1699,6 +1933,93 @@
       "auxiliary_phone_number": "+381 22 712 558",
       "email": "standardsid@mts.rs",
       "website": ""
+    },
+    {
+      "city": "Temerin",
+      "company_name": "JKP Temerin",
+      "address": {
+        "street": "Košut Lajoša",
+        "house_number": "31A",
+        "postal_code": "21235",
+        "pak": "385509",
+        "city": "Temerin",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "07:00 - 15:00",
+        "tuesday": "07:00 - 15:00",
+        "wednesday": "07:00 - 15:00",
+        "thursday": "07:00 - 15:00",
+        "friday": "07:00 - 15:00",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 200 770",
+      "auxiliary_phone_number": "+381 21 843 666",
+      "email": "office@jkptemerin.com",
+      "website": "https://www.jkptemerin.com/"
+    },
+    {
+      "city": "Topola",
+      "company_name": "Savant doo",
+      "address": {
+        "street": "Skenderbegova",
+        "house_number": "3",
+        "postal_code": "11158",
+        "pak": "104803",
+        "city": "Beograd",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [
+        {
+          "street": "Bulevar vožda Karađorđa",
+          "house_number": "54",
+          "postal_code": "34310",
+          "pak": "543202",
+          "city": "Topola",
+          "country": "Srbija"
+        }
+      ],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "0800 011 015",
+      "auxiliary_phone_number": "+381 34 6814 847",
+      "email": "office@savant.rs",
+      "website": ""
+    },
+    {
+      "city": "Trstenik",
+      "company_name": "JP za uređivanje građevinskog zemljišta Trstenik",
+      "address": {
+        "street": "Živadina Apostolovića",
+        "house_number": "8",
+        "postal_code": "37240",
+        "pak": "665327",
+        "city": "Trstenik",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+      },
+      "phone_number": "+381 37 712 047",
+      "auxiliary_phone_number": "",
+      "email": "office@direkcijats.rs",
+      "website": "https://www.direkcijats.rs/"
     }
   ]
 }
