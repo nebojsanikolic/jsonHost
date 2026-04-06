@@ -2,6 +2,453 @@
   "version": "1.0",
   "parking_companies": [
     {
+      "city": "Bar",
+      "company_name": "Parking servis Bar d.o.o.",
+      "address": {
+        "street": "Rista Lekića",
+        "house_number": "A6",
+        "postal_code": "85000",
+        "pak": "",
+        "city": "Bar",
+        "country": "Crna Gora"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "+382 30 326 000",
+      "auxiliary_phone_number": "",
+      "email": "info@parkingservisbar.me",
+      "website": "https://www.parkingservisbar.me/"
+    },
+    {
+      "city": "Berane",
+      "company_name": "Parking servis Berane d.o.o.",
+      "address": {
+        "street": "Miljana Vukova",
+        "house_number": "5",
+        "postal_code": "84300",
+        "pak": "",
+        "city": "Berane",
+        "country": "Crna Gora"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 22:00",
+            "tuesday": "07:00 - 22:00",
+            "wednesday": "07:00 - 22:00",
+            "thursday": "07:00 - 22:00",
+            "friday": "07:00 - 22:00",
+            "saturday": "07:00 - 22:00",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "+382 68 802 270",
+      "auxiliary_phone_number": "+382 63 200 252",
+      "email": "parkingservisberane@gmail.com",
+      "website": "https://www.parkingservisberane.me/"
+    },
+    {
+      "city": "Bijelo Polje",
+      "company_name": "Parking servis Bijelo Polje d.o.o.",
+      "address": {
+        "street": "Živka Žižića",
+        "house_number": "",
+        "postal_code": "84000",
+        "pak": "",
+        "city": "Bijelo Polje",
+        "country": "Crna Gora"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "+382 50 201 211",
+      "auxiliary_phone_number": "",
+      "email": "parking@bijelopolje.co.me",
+      "website": "http://www.parkingbp.me/"
+    },
+    {
+      "city": "Budva",
+      "company_name": "Parking servis Budva d.o.o.",
+      "address": {
+        "street": "Mediteranska",
+        "house_number": "53",
+        "postal_code": "85310",
+        "pak": "",
+        "city": "Budva",
+        "country": "Crna Gora"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "08:00 - 15:00",
+            "tuesday": "08:00 - 15:00",
+            "wednesday": "08:00 - 15:00",
+            "thursday": "08:00 - 15:00",
+            "friday": "08:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "+382 33 402 492",
+      "auxiliary_phone_number": "",
+      "email": "parkingbudva@t-com.me",
+      "website": "https://www.parkingservisbudva.com/"
+    },
+    {
+      "city": "Cetinje",
+      "company_name": "Komunalno Cetinje d.o.o.",
+      "address": {
+        "street": "Jaroslava Čermaka",
+        "house_number": "17",
+        "postal_code": "81250",
+        "pak": "",
+        "city": "Cetinje",
+        "country": "Crna Gora"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "+382 41 238 225",
+      "auxiliary_phone_number": "",
+      "email": "doo@komunalnocetinje.me",
+      "website": "https://www.komunalnocetinje.me/"
+    },
+    {
+      "city": "Herceg Novi",
+      "company_name": "Parking servis Herceg Novi d.o.o.",
+      "address": {
+        "street": "Trg Maršala Tita",
+        "house_number": "4",
+        "postal_code": "85340",
+        "pak": "",
+        "city": "Herceg Novi",
+        "country": "Crna Gora"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Zimski period",
+          "valid_from": "01.09.",
+          "valid_to": "31.05.",
+          "pause": "11:00 - 11:30",
+          "days": {
+            "monday": "08:00 - 14:00",
+            "tuesday": "08:00 - 14:00",
+            "wednesday": "08:00 - 14:00",
+            "thursday": "08:00 - 14:00",
+            "friday": "08:00 - 14:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        },
+        {
+          "period_name": "Letnji period",
+          "valid_from": "01.06.",
+          "valid_to": "31.08.",
+          "pause": "11:00 - 11:30;17:00 - 17:30",
+          "days": {
+            "monday": "08:00 - 20:00",
+            "tuesday": "08:00 - 20:00",
+            "wednesday": "08:00 - 20:00",
+            "thursday": "08:00 - 20:00",
+            "friday": "08:00 - 20:00",
+            "saturday": "08:00 - 13:00",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "+382 19929",
+      "auxiliary_phone_number": "",
+      "email": "office@parkinghn.me",
+      "website": "https://www.parkinghn.me/"
+    },
+    {
+      "city": "Nikšić",
+      "company_name": "Parking Servis Nikšić d.o.o.",
+      "address": {
+        "street": "Njegoševa",
+        "house_number": "18",
+        "postal_code": "81400",
+        "pak": "",
+        "city": "Nikšić",
+        "country": "Crna Gora"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "+382 40 229 803",
+      "auxiliary_phone_number": "",
+      "email": "parkingservisnk@gmail.com",
+      "website": "https://www.parkingservisnk.me/"
+    },
+    {
+      "city": "Pljevlja",
+      "company_name": "Čistoća d.o.o.; RJ Parking Servis Pljevlja",
+      "address": {
+        "street": "Kralja Petra I",
+        "house_number": "15",
+        "postal_code": "84210",
+        "pak": "",
+        "city": "Pljevlja",
+        "country": "Crna Gora"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "09:00 - 15:00",
+            "tuesday": "09:00 - 15:00",
+            "wednesday": "09:00 - 15:00",
+            "thursday": "09:00 - 15:00",
+            "friday": "09:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "+382 67 376 444",
+      "auxiliary_phone_number": "",
+      "email": "pvparkingservis@gmail.com",
+      "website": "https://www.parkingpv.me/"
+    },
+    {
+      "city": "Podgorica",
+      "company_name": "Parking servis Podgorica d.o.o.",
+      "address": {
+        "street": "Trg Argentina",
+        "house_number": "8",
+        "postal_code": "81000",
+        "pak": "",
+        "city": "Podgorica",
+        "country": "Crna Gora"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "+382 20 652 506",
+      "auxiliary_phone_number": "",
+      "email": "info@parkingservispg.me",
+      "website": ""
+    },
+    {
+      "city": "Tivat",
+      "company_name": "Parking servis Tivat d.o.o.",
+      "address": {
+        "street": "Bonići",
+        "house_number": "1",
+        "postal_code": "85320",
+        "pak": "",
+        "city": "Tivat",
+        "country": "Crna Gora"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "+382 68 801 645",
+      "auxiliary_phone_number": "+382 32 780 190",
+      "email": "parkingservistivat@gmail.com",
+      "website": "https://www.parkingservistivat.me/"
+    },
+    {
+      "city": "Ulcinj",
+      "company_name": "Parking servis Ulcinj d.o.o.",
+      "address": {
+        "street": "Bulevardi Sami Frashëri",
+        "house_number": "",
+        "postal_code": "85360",
+        "pak": "",
+        "city": "Ulcinj",
+        "country": "Crna Gora"
+      },
+      "customer_service_offices": [
+        {
+          "street": "Rruga Hafiz Ali Ulqinaku",
+          "house_number": "",
+          "postal_code": "85360",
+          "pak": "",
+          "city": "Ulcinj",
+          "country": "Crna Gora"
+        }
+      ],
+      "working_hours": [
+        {
+          "period_name": "Letnji period",
+          "valid_from": "01.06",
+          "valid_to": "30.09.",
+          "pause": "",
+          "days": {
+            "monday": "08:00 - 22:00",
+            "tuesday": "08:00 - 22:00",
+            "wednesday": "08:00 - 22:00",
+            "thursday": "08:00 - 22:00",
+            "friday": "08:00 - 22:00",
+            "saturday": "08:00 - 22:00",
+            "sunday": "08:00 - 22:00"
+          }
+        },
+        {
+          "period_name": "Zimski period",
+          "valid_from": "01.10.",
+          "valid_to": "31.05.",
+          "pause": "",
+          "days": {
+            "monday": "08:00 - 20:00",
+            "tuesday": "08:00 - 20:00",
+            "wednesday": "08:00 - 20:00",
+            "thursday": "08:00 - 20:00",
+            "friday": "08:00 - 20:00",
+            "saturday": "08:00 - 13:00",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "+382 30 416 190",
+      "auxiliary_phone_number": "",
+      "email": "parkingservisulcinj@gmail.com",
+      "website": "https://www.parkingservisulcinj.me/"
+    },
+    {
+      "city": "Žabljak",
+      "company_name": "Parking servis Žabljak d.o.o.",
+      "address": {
+        "street": "Dušana Baranina",
+        "house_number": "",
+        "postal_code": "84220",
+        "pak": "",
+        "city": "Žabljak",
+        "country": "Crna Gora"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "+381 67 027 106",
+      "auxiliary_phone_number": "",
+      "email": "parkingserviszb@gmail.com",
+      "website": "https://www.parkingserviszb.me/"
+    },
+    {
       "city": "Aleksandrovac",
       "company_name": "JKSP Aleksandrovac",
       "address": {
@@ -13,15 +460,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 37 751 696",
       "auxiliary_phone_number": "",
       "email": "jksp@jksp-aleksandrovac.com",
@@ -39,15 +494,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 18 807 667",
       "auxiliary_phone_number": "",
       "email": "parking@jkpkomusl.rs",
@@ -65,15 +528,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 253 201",
       "auxiliary_phone_number": "+381 34 715 667",
       "email": "office@jkpzelenilo.rs",
@@ -91,15 +562,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 21 755 0 113",
       "auxiliary_phone_number": "",
       "email": "info@komunalprojekt.rs",
@@ -117,15 +596,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 31 861 545",
       "auxiliary_phone_number": "",
       "email": "jp.bbterm@gmail.com",
@@ -143,15 +630,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 34 6841 100",
       "auxiliary_phone_number": "",
       "email": "lepenicabatocina@hotmail.com",
@@ -169,15 +664,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 007 006",
       "auxiliary_phone_number": "+381 21 6911 760",
       "email": "komunbcj@gmail.com",
@@ -220,15 +723,23 @@
           "country": "Srbija"
         }
       ],
-      "working_hours": {
-        "monday": "07:00 - 21:00",
-        "tuesday": "07:00 - 21:00",
-        "wednesday": "07:00 - 21:00",
-        "thursday": "07:00 - 21:00",
-        "friday": "07:00 - 21:00",
-        "saturday": "07:00 - 14:00",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 21:00",
+            "tuesday": "07:00 - 21:00",
+            "wednesday": "07:00 - 21:00",
+            "thursday": "07:00 - 21:00",
+            "friday": "07:00 - 21:00",
+            "saturday": "07:00 - 14:00",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 110 011",
       "auxiliary_phone_number": "",
       "email": "info@parking-servis.co.rs",
@@ -246,17 +757,25 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "10:00 - 12:00;14:00 - 16:00",
-        "tuesday": "10:00 - 12:00;14:00 - 16:00",
-        "wednesday": "10:00 - 12:00;14:00 - 16:00",
-        "thursday": "10:00 - 12:00;14:00 - 16:00",
-        "friday": "10:00 - 12:00;14:00 - 16:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "10:00 - 12:00;14:00 - 16:00",
+            "tuesday": "10:00 - 12:00;14:00 - 16:00",
+            "wednesday": "10:00 - 12:00;14:00 - 16:00",
+            "thursday": "10:00 - 12:00;14:00 - 16:00",
+            "friday": "10:00 - 12:00;14:00 - 16:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 030 031",
-      "auxiliary_phone_number": "+381 30 423 188",
+      "auxiliary_phone_number": "+381 60 3175 660",
       "email": "jpbor@mts.rs",
       "website": "http://www.jpbor.rs/"
     },
@@ -272,15 +791,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 353 707",
       "auxiliary_phone_number": "+381 37 3825 486",
       "email": "jkp.rasina@gmail.com",
@@ -298,15 +825,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 353 707",
       "auxiliary_phone_number": "+381 37 3825 486",
       "email": "jkp.rasina@gmail.com",
@@ -324,15 +859,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 60 4409 341",
       "auxiliary_phone_number": "",
       "email": "parkingsmsbujanovac@gmail.com",
@@ -350,15 +893,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:30 - 14:30",
-        "tuesday": "07:30 - 14:30",
-        "wednesday": "07:30 - 14:30",
-        "thursday": "07:30 - 14:30",
-        "friday": "07:30 - 14:30",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:30 - 14:30",
+            "tuesday": "07:30 - 14:30",
+            "wednesday": "07:30 - 14:30",
+            "thursday": "07:30 - 14:30",
+            "friday": "07:30 - 14:30",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 300 401",
       "auxiliary_phone_number": "+381 32 5376 870",
       "email": "parkingserviscacak@mts.rs",
@@ -376,15 +927,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 37 811 804",
       "auxiliary_phone_number": "+381 37 811 260",
       "email": "jpputevicicevac@gmail.com",
@@ -402,15 +961,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 35 8150 449",
       "auxiliary_phone_number": "+381 35 8150 078",
       "email": "info@ravno2014.cuprija.rs",
@@ -428,15 +995,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 14:00",
-        "tuesday": "07:00 - 14:00",
-        "wednesday": "07:00 - 14:00",
-        "thursday": "07:00 - 14:00",
-        "friday": "07:00 - 14:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 14:00",
+            "tuesday": "07:00 - 14:00",
+            "wednesday": "07:00 - 14:00",
+            "thursday": "07:00 - 14:00",
+            "friday": "07:00 - 14:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 35 611 027",
       "auxiliary_phone_number": "",
       "email": "stan.finansije@gmail.com",
@@ -454,15 +1029,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 10 362 764",
       "auxiliary_phone_number": "+381 10 362 178",
       "email": "komdmg@mts.rs",
@@ -480,15 +1063,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 32 713 001",
       "auxiliary_phone_number": "",
       "email": "info@jp-gm.org",
@@ -506,15 +1097,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 200 014",
       "auxiliary_phone_number": "",
       "email": "jpgz@indjija.rs",
@@ -532,15 +1131,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 132 130",
       "auxiliary_phone_number": "+381 64 8273 101",
       "email": "office@jkpivanjica.rs",
@@ -558,15 +1165,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 800 995",
       "auxiliary_phone_number": "+381 35 242 754",
       "email": "office@parkingjagodina.co.rs",
@@ -593,15 +1208,23 @@
           "country": "Srbija"
         }
       ],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 333 660",
       "auxiliary_phone_number": "",
       "email": "info@jpkikinda.rs",
@@ -619,15 +1242,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 019 009",
       "auxiliary_phone_number": "+381 19 731 112",
       "email": "jkp_standard@mts.rs",
@@ -645,15 +1276,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 36 736 671",
       "auxiliary_phone_number": "",
       "email": "puteviraska@gmail.com",
@@ -671,15 +1310,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 21:00",
-        "tuesday": "07:00 - 21:00",
-        "wednesday": "07:00 - 21:00",
-        "thursday": "07:00 - 21:00",
-        "friday": "07:00 - 21:00",
-        "saturday": "07:00 - 14:00",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 21:00",
+            "tuesday": "07:00 - 21:00",
+            "wednesday": "07:00 - 21:00",
+            "thursday": "07:00 - 21:00",
+            "friday": "07:00 - 21:00",
+            "saturday": "07:00 - 14:00",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 350 034",
       "auxiliary_phone_number": "+381 34 335 482",
       "email": "info@jkpsumadija.rs",
@@ -714,15 +1361,23 @@
           "country": "Srbija"
         }
       ],
-      "working_hours": {
-        "monday": "08:00 - 20:00",
-        "tuesday": "08:00 - 20:00",
-        "wednesday": "08:00 - 20:00",
-        "thursday": "08:00 - 20:00",
-        "friday": "08:00 - 20:00",
-        "saturday": "08:00 - 13:00",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "08:00 - 20:00",
+            "tuesday": "08:00 - 20:00",
+            "wednesday": "08:00 - 20:00",
+            "thursday": "08:00 - 20:00",
+            "friday": "08:00 - 20:00",
+            "saturday": "08:00 - 13:00",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 350 034",
       "auxiliary_phone_number": "+381 34 330 011",
       "email": "info@jkpsumadija.rs",
@@ -740,15 +1395,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "08:30 - 15:30",
-        "tuesday": "08:30 - 15:30",
-        "wednesday": "08:30 - 15:30",
-        "thursday": "08:30 - 15:30",
-        "friday": "08:30 - 15:30",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "08:30 - 15:30",
+            "tuesday": "08:30 - 15:30",
+            "wednesday": "08:30 - 15:30",
+            "thursday": "08:30 - 15:30",
+            "friday": "08:30 - 15:30",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 36 313 901",
       "auxiliary_phone_number": "+381 36 362 202",
       "email": "office@jkpcistocakv.rs",
@@ -766,15 +1429,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 15 7581 350",
       "auxiliary_phone_number": "",
       "email": "1.maj@mts.rs",
@@ -792,15 +1463,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 124 127",
       "auxiliary_phone_number": "+381 37 438 900",
       "email": "jpposlovnicentar@gmail.com",
@@ -818,15 +1497,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 12 852 137",
       "auxiliary_phone_number": "+381 12 852 138",
       "email": "jkpkucevo@gmail.com",
@@ -853,17 +1540,25 @@
           "country": "Srbija"
         }
       ],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
-      "phone_number": "+381 27 380 595",
-      "auxiliary_phone_number": "",
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "+381 27 380 354",
+      "auxiliary_phone_number": "+381 27 380 595",
       "email": "direkcija.kursumlija@gmail.com",
       "website": "https://www.jpugkursumlija.rs/"
     },
@@ -879,15 +1574,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 34 853 165",
       "auxiliary_phone_number": "",
       "email": "jkspmorava@gmail.com",
@@ -905,15 +1608,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 20:30",
-        "tuesday": "07:00 - 20:30",
-        "wednesday": "07:00 - 20:30",
-        "thursday": "07:00 - 20:30",
-        "friday": "07:00 - 20:30",
-        "saturday": "07:00 - 13:30",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 20:30",
+            "tuesday": "07:00 - 20:30",
+            "wednesday": "07:00 - 20:30",
+            "thursday": "07:00 - 20:30",
+            "friday": "07:00 - 20:30",
+            "saturday": "07:00 - 13:30",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 11 8117 080",
       "auxiliary_phone_number": "+381 11 8117 081",
       "email": "parkingservis@jpkp.rs",
@@ -931,15 +1642,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 21:00",
-        "tuesday": "07:00 - 21:00",
-        "wednesday": "07:00 - 21:00",
-        "thursday": "07:00 - 21:00",
-        "friday": "07:00 - 21:00",
-        "saturday": "07:00 - 15:00",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 21:00",
+            "tuesday": "07:00 - 21:00",
+            "wednesday": "07:00 - 21:00",
+            "thursday": "07:00 - 21:00",
+            "friday": "07:00 - 21:00",
+            "saturday": "07:00 - 15:00",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 176 664",
       "auxiliary_phone_number": "+381 16 218 401",
       "email": "office@metroparkingjug.rs",
@@ -957,15 +1676,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 20:00",
-        "tuesday": "07:00 - 20:00",
-        "wednesday": "07:00 - 20:00",
-        "thursday": "07:00 - 20:00",
-        "friday": "07:00 - 20:00",
-        "saturday": "07:00 - 14:00",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 20:00",
+            "tuesday": "07:00 - 20:00",
+            "wednesday": "07:00 - 20:00",
+            "thursday": "07:00 - 20:00",
+            "friday": "07:00 - 20:00",
+            "saturday": "07:00 - 14:00",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 390 007",
       "auxiliary_phone_number": "+381 15 877 537",
       "email": "parkserv@mts.rs",
@@ -983,15 +1710,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 377 790",
       "auxiliary_phone_number": "+381 14 3445 016",
       "email": "jkpkomunalacljig@gmail.com",
@@ -1009,15 +1744,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 15 561 965",
       "auxiliary_phone_number": "",
       "email": "jkps.parking@gmail.com",
@@ -1035,15 +1778,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 14 3421 021",
       "auxiliary_phone_number": "",
       "email": "jkpvodovodm@gmail.com",
@@ -1070,15 +1821,23 @@
           "country": "Srbija"
         }
       ],
-      "working_hours": {
-        "monday": "07:30 - 19:30",
-        "tuesday": "07:30 - 19:30",
-        "wednesday": "07:30 - 19:30",
-        "thursday": "07:30 - 19:30",
-        "friday": "07:30 - 19:30",
-        "saturday": "07:30 - 13:30",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:30 - 19:30",
+            "tuesday": "07:30 - 19:30",
+            "wednesday": "07:30 - 19:30",
+            "thursday": "07:30 - 19:30",
+            "friday": "07:30 - 19:30",
+            "saturday": "07:30 - 13:30",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 100 303",
       "auxiliary_phone_number": "+381 11 8230 043",
       "email": "office@parkingmladenovac.rs",
@@ -1096,15 +1855,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "08:00 - 15:00",
-        "tuesday": "08:00 - 15:00",
-        "wednesday": "08:00 - 15:00",
-        "thursday": "08:00 - 15:00",
-        "friday": "08:00 - 15:00",
-        "saturday": "08:00 - 13:00",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "08:00 - 15:00",
+            "tuesday": "08:00 - 15:00",
+            "wednesday": "08:00 - 15:00",
+            "thursday": "08:00 - 15:00",
+            "friday": "08:00 - 15:00",
+            "saturday": "08:00 - 13:00",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 019 013",
       "auxiliary_phone_number": "+381 19 542 012",
       "email": "office@badnjevo.rs",
@@ -1122,15 +1889,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 20:30",
-        "tuesday": "07:00 - 20:30",
-        "wednesday": "07:00 - 20:30",
-        "thursday": "07:00 - 20:30",
-        "friday": "07:00 - 20:30",
-        "saturday": "07:00 - 14:00",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 20:30",
+            "tuesday": "07:00 - 20:30",
+            "wednesday": "07:00 - 20:30",
+            "thursday": "07:00 - 20:30",
+            "friday": "07:00 - 20:30",
+            "saturday": "07:00 - 14:00",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 18 517 778",
       "auxiliary_phone_number": "+381 18 517-556",
       "email": "info@nisparking.rs",
@@ -1148,15 +1923,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:30 - 15:30",
-        "tuesday": "07:30 - 15:30",
-        "wednesday": "07:30 - 15:30",
-        "thursday": "07:30 - 15:30",
-        "friday": "07:30 - 15:30",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:30 - 15:30",
+            "tuesday": "07:30 - 15:30",
+            "wednesday": "07:30 - 15:30",
+            "thursday": "07:30 - 15:30",
+            "friday": "07:30 - 15:30",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 20 319 921",
       "auxiliary_phone_number": "",
       "email": "parkingservis.np@gmail.com",
@@ -1174,15 +1957,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "08:00 - 20:00",
-        "tuesday": "08:00 - 20:00",
-        "wednesday": "08:00 - 20:00",
-        "thursday": "08:00 - 20:00",
-        "friday": "08:00 - 20:00",
-        "saturday": "08:00 - 20:00",
-        "sunday": "09:00 - 13:00"
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "08:00 - 20:00",
+            "tuesday": "08:00 - 20:00",
+            "wednesday": "08:00 - 20:00",
+            "thursday": "08:00 - 20:00",
+            "friday": "08:00 - 20:00",
+            "saturday": "08:00 - 20:00",
+            "sunday": "09:00 - 13:00"
+          }
+        }
+      ],
       "phone_number": "0800 021 104",
       "auxiliary_phone_number": "+381 21 472 4140",
       "email": "office@parkingns.rs",
@@ -1200,15 +1991,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "06:00 - 20:00",
-        "tuesday": "06:00 - 20:00",
-        "wednesday": "06:00 - 20:00",
-        "thursday": "06:00 - 20:00",
-        "friday": "06:00 - 20:00",
-        "saturday": "06:00 - 14:00",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "06:00 - 20:00",
+            "tuesday": "06:00 - 20:00",
+            "wednesday": "06:00 - 20:00",
+            "thursday": "06:00 - 20:00",
+            "friday": "06:00 - 20:00",
+            "saturday": "06:00 - 14:00",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 000 405",
       "auxiliary_phone_number": "+381 11 8724 884",
       "email": "info@parkingobrenovac.rs",
@@ -1226,15 +2025,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 14 3451 175",
       "auxiliary_phone_number": "",
       "email": "info@jkposecina.rs",
@@ -1261,15 +2068,23 @@
           "country": "Srbija"
         }
       ],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 111 013",
       "auxiliary_phone_number": "+381 13 351 549",
       "email": "kontakt@jkphigijena.co.rs",
@@ -1287,15 +2102,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:30 - 14:30",
-        "tuesday": "07:30 - 14:30",
-        "wednesday": "07:30 - 14:30",
-        "thursday": "07:30 - 14:30",
-        "friday": "07:30 - 14:30",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:30 - 14:30",
+            "tuesday": "07:30 - 14:30",
+            "wednesday": "07:30 - 14:30",
+            "thursday": "07:30 - 14:30",
+            "friday": "07:30 - 14:30",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 35 564 369",
       "auxiliary_phone_number": "",
       "email": "direkcijaparacin@gmail.com",
@@ -1313,15 +2136,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 22 400 749",
       "auxiliary_phone_number": "",
       "email": "reklamacije.parking@pecinci.org",
@@ -1339,15 +2170,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 14:00",
-        "tuesday": "07:00 - 14:00",
-        "wednesday": "07:00 - 14:00",
-        "thursday": "07:00 - 14:00",
-        "friday": "07:00 - 14:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 14:00",
+            "tuesday": "07:00 - 14:00",
+            "wednesday": "07:00 - 14:00",
+            "thursday": "07:00 - 14:00",
+            "friday": "07:00 - 14:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 12 326 076",
       "auxiliary_phone_number": "",
       "email": "parkingservis.petrovac@gmail.com",
@@ -1365,15 +2204,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 20:00",
-        "tuesday": "07:00 - 20:00",
-        "wednesday": "07:00 - 20:00",
-        "thursday": "07:00 - 20:00",
-        "friday": "07:00 - 20:00",
-        "saturday": "07:00 - 14:00",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 20:00",
+            "tuesday": "07:00 - 20:00",
+            "wednesday": "07:00 - 20:00",
+            "thursday": "07:00 - 20:00",
+            "friday": "07:00 - 20:00",
+            "saturday": "07:00 - 14:00",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 100 102",
       "auxiliary_phone_number": "+381 10 341 170",
       "email": "komunalac.pirot@mts.rs",
@@ -1391,15 +2238,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:30 - 20:00",
-        "tuesday": "07:30 - 20:00",
-        "wednesday": "07:30 - 20:00",
-        "thursday": "07:30 - 20:00",
-        "friday": "07:30 - 20:00",
-        "saturday": "07:30 - 14:00",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:30 - 20:00",
+            "tuesday": "07:30 - 20:00",
+            "wednesday": "07:30 - 20:00",
+            "thursday": "07:30 - 20:00",
+            "friday": "07:30 - 20:00",
+            "saturday": "07:30 - 14:00",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 111 012",
       "auxiliary_phone_number": "+381 12 520 915",
       "email": "info@parkingservis.com",
@@ -1417,15 +2272,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 16:00",
-        "tuesday": "07:00 - 16:00",
-        "wednesday": "07:00 - 16:00",
-        "thursday": "07:00 - 16:00",
-        "friday": "07:00 - 16:00",
-        "saturday": "08:00 - 13:00",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 16:00",
+            "tuesday": "07:00 - 16:00",
+            "wednesday": "07:00 - 16:00",
+            "thursday": "07:00 - 16:00",
+            "friday": "07:00 - 16:00",
+            "saturday": "08:00 - 13:00",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 31 825 037",
       "auxiliary_phone_number": "",
       "email": "office@jkpnasdompozega.co.rs",
@@ -1443,15 +2306,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "08:00 - 14:00",
-        "tuesday": "08:00 - 14:00",
-        "wednesday": "08:00 - 14:00",
-        "thursday": "08:00 - 14:00",
-        "friday": "08:00 - 14:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "08:00 - 14:00",
+            "tuesday": "08:00 - 14:00",
+            "wednesday": "08:00 - 14:00",
+            "thursday": "08:00 - 14:00",
+            "friday": "08:00 - 14:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 N/A",
       "auxiliary_phone_number": "",
       "email": "office@jkpmoravica.rs",
@@ -1469,15 +2340,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "10:00 - 12:00",
-        "tuesday": "10:00 - 12:00",
-        "wednesday": "10:00 - 12:00",
-        "thursday": "10:00 - 12:00",
-        "friday": "10:00 - 12:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "10:00 - 12:00",
+            "tuesday": "10:00 - 12:00",
+            "wednesday": "10:00 - 12:00",
+            "thursday": "10:00 - 12:00",
+            "friday": "10:00 - 12:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 60 33 49 052",
       "auxiliary_phone_number": "",
       "email": "parkingservis@demetrarb.com",
@@ -1495,15 +2374,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 36 736 671",
       "auxiliary_phone_number": "",
       "email": "puteviraska@gmail.com",
@@ -1521,15 +2408,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 100 105",
       "auxiliary_phone_number": "",
       "email": "office@komunalacruma.co.rs",
@@ -1547,15 +2442,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "06:00 - 14:00",
-        "tuesday": "06:00 - 14:00",
-        "wednesday": "06:00 - 14:00",
-        "thursday": "06:00 - 14:00",
-        "friday": "06:00 - 14:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "06:00 - 14:00",
+            "tuesday": "06:00 - 14:00",
+            "wednesday": "06:00 - 14:00",
+            "thursday": "06:00 - 14:00",
+            "friday": "06:00 - 14:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 024 026",
       "auxiliary_phone_number": "+381 24 827 800",
       "email": "jksp@jksp-senta.co.rs",
@@ -1573,15 +2476,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 333 110",
       "auxiliary_phone_number": "+381 20 741 788",
       "email": "info@jkpvrela.rs",
@@ -1608,15 +2519,23 @@
           "country": "Srbija"
         }
       ],
-      "working_hours": {
-        "monday": "08:00 - 20:00",
-        "tuesday": "08:00 - 20:00",
-        "wednesday": "08:00 - 20:00",
-        "thursday": "08:00 - 20:00",
-        "friday": "08:00 - 20:00",
-        "saturday": "08:00 - 13:00",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "08:00 - 20:00",
+            "tuesday": "08:00 - 20:00",
+            "wednesday": "08:00 - 20:00",
+            "thursday": "08:00 - 20:00",
+            "friday": "08:00 - 20:00",
+            "saturday": "08:00 - 13:00",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 200 209",
       "auxiliary_phone_number": "+381 26 615 630",
       "email": "info@parkingsd.rs",
@@ -1634,15 +2553,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "08:00 - 13:00",
-        "tuesday": "08:00 - 13:00",
-        "wednesday": "08:00 - 13:00",
-        "thursday": "08:00 - 13:00",
-        "friday": "08:00 - 13:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "08:00 - 13:00",
+            "tuesday": "08:00 - 13:00",
+            "wednesday": "08:00 - 13:00",
+            "thursday": "08:00 - 13:00",
+            "friday": "08:00 - 13:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 64 8873 121",
       "auxiliary_phone_number": "",
       "email": "parkingjkppalanka@gmail.com",
@@ -1660,15 +2587,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 018 801",
       "auxiliary_phone_number": "+381 18 830 670",
       "email": "reklamacije@jkpnapredak.rs",
@@ -1686,15 +2621,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 102 125",
       "auxiliary_phone_number": "+381 25 423 000",
       "email": "office@parkingsombor.co.rs",
@@ -1712,15 +2655,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 14:00",
-        "tuesday": "07:00 - 14:00",
-        "wednesday": "07:00 - 14:00",
-        "thursday": "07:00 - 14:00",
-        "friday": "07:00 - 14:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 14:00",
+            "tuesday": "07:00 - 14:00",
+            "wednesday": "07:00 - 14:00",
+            "thursday": "07:00 - 14:00",
+            "friday": "07:00 - 14:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 22 624 500",
       "auxiliary_phone_number": "",
       "email": "jkp.komunalije@gmail.com",
@@ -1738,15 +2689,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 151 510",
       "auxiliary_phone_number": "+381 21 6853 017",
       "email": "parkingbelilo@gmail.com",
@@ -1764,15 +2723,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 22 310 150",
       "auxiliary_phone_number": "+381 22 317 205",
       "email": "cistoca@vojvodinaonline.rs",
@@ -1790,15 +2757,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 17:00",
-        "tuesday": "07:00 - 17:00",
-        "wednesday": "07:00 - 17:00",
-        "thursday": "07:00 - 17:00",
-        "friday": "07:00 - 17:00",
-        "saturday": "07:00 - 14:00",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 17:00",
+            "tuesday": "07:00 - 17:00",
+            "wednesday": "07:00 - 17:00",
+            "thursday": "07:00 - 17:00",
+            "friday": "07:00 - 17:00",
+            "saturday": "07:00 - 14:00",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 333 024",
       "auxiliary_phone_number": "+381 24 694 200",
       "email": "office@suparking.rs",
@@ -1816,15 +2791,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 333 024",
       "auxiliary_phone_number": "+381 24 694 200",
       "email": "office@suparking.rs",
@@ -1842,15 +2825,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:30 - 15:30",
-        "tuesday": "07:30 - 15:30",
-        "wednesday": "07:30 - 15:30",
-        "thursday": "07:30 - 15:30",
-        "friday": "07:30 - 15:30",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:30 - 15:30",
+            "tuesday": "07:30 - 15:30",
+            "wednesday": "07:30 - 15:30",
+            "thursday": "07:30 - 15:30",
+            "friday": "07:30 - 15:30",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 11 8467 006",
       "auxiliary_phone_number": "+381 11 8467 021",
       "email": "javnopreduzecesurcin@gmail.com",
@@ -1868,15 +2859,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 35 323 280",
       "auxiliary_phone_number": "+381 35 312 250",
       "email": "parkingservis@kjpmorava.rs",
@@ -1894,15 +2893,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 14:30",
-        "tuesday": "07:00 - 14:30",
-        "wednesday": "07:00 - 14:30",
-        "thursday": "07:00 - 14:30",
-        "friday": "07:00 - 14:30",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 14:30",
+            "tuesday": "07:00 - 14:30",
+            "wednesday": "07:00 - 14:30",
+            "thursday": "07:00 - 14:30",
+            "friday": "07:00 - 14:30",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 211 211",
       "auxiliary_phone_number": "+381 15 303 690",
       "email": "office@parkingsabac.rs",
@@ -1920,15 +2927,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 120 122",
       "auxiliary_phone_number": "+381 22 712 558",
       "email": "standardsid@mts.rs",
@@ -1946,15 +2961,23 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "07:00 - 15:00",
-        "tuesday": "07:00 - 15:00",
-        "wednesday": "07:00 - 15:00",
-        "thursday": "07:00 - 15:00",
-        "friday": "07:00 - 15:00",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 200 770",
       "auxiliary_phone_number": "+381 21 843 666",
       "email": "office@jkptemerin.com",
@@ -1981,15 +3004,23 @@
           "country": "Srbija"
         }
       ],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "0800 011 015",
       "auxiliary_phone_number": "+381 34 6814 847",
       "email": "office@savant.rs",
@@ -2007,19 +3038,512 @@
         "country": "Srbija"
       },
       "customer_service_offices": [],
-      "working_hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
-      },
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
       "phone_number": "+381 37 712 047",
       "auxiliary_phone_number": "",
       "email": "office@direkcijats.rs",
       "website": "https://www.direkcijats.rs/"
+    },
+    {
+      "city": "Ub",
+      "company_name": "KJP Đunis Ub",
+      "address": {
+        "street": "Veljka Vlahovića",
+        "house_number": "6",
+        "postal_code": "14210",
+        "pak": "240119",
+        "city": "Ub",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "0800 115 114",
+      "auxiliary_phone_number": "+381 14 411 107",
+      "email": "parkingub@gmail.com",
+      "website": "https://www.djunis.rs/"
+    },
+    {
+      "city": "Užice",
+      "company_name": "RJ Parking servis - Bioktoš Užice",
+      "address": {
+        "street": "Nikole Pašića",
+        "house_number": "5V",
+        "postal_code": "31102",
+        "pak": "500102",
+        "city": "Užice",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "0800 031 030",
+      "auxiliary_phone_number": "+381 31 513 993",
+      "email": "parking.uzice@gmail.com",
+      "website": "https://www.bioktos.com/"
+    },
+    {
+      "city": "Valjevo",
+      "company_name": "JKP Vidrak Valjevo",
+      "address": {
+        "street": "Vojvode Mišića",
+        "house_number": "50",
+        "postal_code": "14000",
+        "pak": "250725",
+        "city": "Valjevo",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 20:00",
+            "tuesday": "07:00 - 20:00",
+            "wednesday": "07:00 - 20:00",
+            "thursday": "07:00 - 20:00",
+            "friday": "07:00 - 20:00",
+            "saturday": "07:00 - 14:00",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "0800 001 014",
+      "auxiliary_phone_number": "+381 14 221 556",
+      "email": "info@vidrakvaljevo.com",
+      "website": "https://www.vidrakvaljevo.com/"
+    },
+    {
+      "city": "Velika Plana",
+      "company_name": "JKP Miloš Mitrović Velika Plana",
+      "address": {
+        "street": "Vojvode Mišića",
+        "house_number": "1",
+        "postal_code": "11320",
+        "pak": "238401",
+        "city": "Velika Plana",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [
+        {
+          "street": "Nikole Pašića",
+          "house_number": "19",
+          "postal_code": "11320",
+          "pak": "238601",
+          "city": "Velika Plana",
+          "country": "Srbija"
+        }
+      ],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "0800 001 009",
+      "auxiliary_phone_number": "+381 26 514 856",
+      "email": "parking.reklamacije.jkpmm@gmail.com",
+      "website": "https://www.jkpmilosmitrovic.rs/"
+    },
+    {
+      "city": "Veliko Gradište",
+      "company_name": "JKP Dunav Veliko Gradište",
+      "address": {
+        "street": "Sremska",
+        "house_number": "1",
+        "postal_code": "12220",
+        "pak": "295107",
+        "city": "Veliko Gradište",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 14:00",
+            "tuesday": "07:00 - 14:00",
+            "wednesday": "07:00 - 14:00",
+            "thursday": "07:00 - 14:00",
+            "friday": "07:00 - 14:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "0800 390 009",
+      "auxiliary_phone_number": "+381 12 662 722",
+      "email": "jkpdvg2@gmail.com",
+      "website": "https://www.jkpdunav.com/"
+    },
+    {
+      "city": "Vlasotince",
+      "company_name": "JKP Komunalac Vlasotince",
+      "address": {
+        "street": "Konopnička",
+        "house_number": "5",
+        "postal_code": "16210",
+        "pak": "645272",
+        "city": "Vlasotince",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "0800 001 010",
+      "auxiliary_phone_number": "+381 16 875 141",
+      "email": "reklamacije@komunalac-vlasotince.rs",
+      "website": "https://www.komunalac-vlasotince.rs/"
+    },
+    {
+      "city": "Vranje",
+      "company_name": "JKP Parking servis Vranje",
+      "address": {
+        "street": "Ive Lole Ribara",
+        "house_number": "1",
+        "postal_code": "17501",
+        "pak": "631415",
+        "city": "Vranje",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "0800 200 252",
+      "auxiliary_phone_number": "+381 17 420 200",
+      "email": "kontakt@parkingvranje.rs",
+      "website": "https://www.parkingvranje.rs/"
+    },
+    {
+      "city": "Vrbas",
+      "company_name": "JKP Komunalac Vrbas",
+      "address": {
+        "street": "Save Kovačevića",
+        "house_number": "87",
+        "postal_code": "21460",
+        "pak": "397206",
+        "city": "Vrbas",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "0800 021 102",
+      "auxiliary_phone_number": "+381 21 706 575",
+      "email": "office@komunalacvrbas.rs",
+      "website": "http://www.komunalacvrbas.rs/"
+    },
+    {
+      "city": "Vrnjačka Banja",
+      "company_name": "JP Novi Autoprevoz",
+      "address": {
+        "street": "Vojvođanska",
+        "house_number": "3",
+        "postal_code": "36210",
+        "pak": "567410",
+        "city": "Vrnjačka Banja",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "0800 222 237",
+      "auxiliary_phone_number": "+381 36 612 449",
+      "email": "parkingservis@noviautoprevoz.rs",
+      "website": "https://www.noviautoprevoz.rs/"
+    },
+    {
+      "city": "Vršac",
+      "company_name": "JKP Drugi oktobar Vršac",
+      "address": {
+        "street": "Stevana Nemanje",
+        "house_number": "26",
+        "postal_code": "26300",
+        "pak": "311602",
+        "city": "Vršac",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "0800 222 113",
+      "auxiliary_phone_number": "+381 13 440 800",
+      "email": "info@oktobar.rs",
+      "website": "https://www.oktobar.co.rs/"
+    },
+    {
+      "city": "Zaječar",
+      "company_name": "JKP Parkiranje, projektovanje i nadzor Zaječar",
+      "address": {
+        "street": "Nikole Pašića",
+        "house_number": "68",
+        "postal_code": "19000",
+        "pak": "610903",
+        "city": "Zaječar",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:30 - 21:00",
+            "tuesday": "07:30 - 21:00",
+            "wednesday": "07:30 - 21:00",
+            "thursday": "07:30 - 21:00",
+            "friday": "07:30 - 21:00",
+            "saturday": "07:30 - 15:00",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "+381 19 420 240",
+      "auxiliary_phone_number": "",
+      "email": "zajecar.parking@gmail.com",
+      "website": "https://www.zajecarparking.co.rs/"
+    },
+    {
+      "city": "Zlatibor",
+      "company_name": "KJP Zlatibor Čajetina",
+      "address": {
+        "street": "Bele Vode",
+        "house_number": "87",
+        "postal_code": "31315",
+        "pak": "509232",
+        "city": "Zlatibor",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "07:00 - 15:00",
+            "tuesday": "07:00 - 15:00",
+            "wednesday": "07:00 - 15:00",
+            "thursday": "07:00 - 15:00",
+            "friday": "07:00 - 15:00",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "0800 031 034",
+      "auxiliary_phone_number": "+381 31 3832 035",
+      "email": "office@kjpzlatibor.rs",
+      "website": "https://www.kjpzlatibor.rs/"
+    },
+    {
+      "city": "Zrenjanin",
+      "company_name": "JKP Pijace i parkinzi Zrenjanin",
+      "address": {
+        "street": "Petefijeva",
+        "house_number": "38",
+        "postal_code": "23101",
+        "pak": "350708",
+        "city": "Zrenjanin",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "0800 100 026",
+      "auxiliary_phone_number": "+381 23 535 465",
+      "email": "officepip@pijaceiparkinzizr.rs",
+      "website": "https://www.pijaceiparkinzizr.rs/"
+    },
+    {
+      "city": "Žabalj",
+      "company_name": "JKP Čistoća Žabalj",
+      "address": {
+        "street": "Svetog Nikole",
+        "house_number": "7",
+        "postal_code": "21230",
+        "pak": "382406",
+        "city": "Žabalj",
+        "country": "Srbija"
+      },
+      "customer_service_offices": [],
+      "working_hours": [
+        {
+          "period_name": "Standardno",
+          "valid_from": "",
+          "valid_to": "",
+          "pause": "",
+          "days": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "",
+            "sunday": ""
+          }
+        }
+      ],
+      "phone_number": "+381 21 2100 429",
+      "auxiliary_phone_number": "+381 21 2100 431",
+      "email": "jkpcistocazabalj@gmail.com",
+      "website": "https://www.jkpzabalj.rs/"
     }
   ]
 }
